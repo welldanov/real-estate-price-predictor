@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 4897471488,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_739_m_616_et._4897471488?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 73,9 м², 6/16 эт.",
+    "description": "Номер квартиры: 122.\n\nЭтаж: 6.\n\nПлощадь: 73.90.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 486 410 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 486 410",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10486410,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841683074,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_82_m_1116_et._7841683074?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 82 м², 11/16 эт.",
+    "description": "Номер квартиры: 51.\n\nЭтаж: 11.\n\nПлощадь: 82.00.\n\nКорпус: Литер 4. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 553 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 553 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11553800,
+      "wasLowered": false,
+      "exponent": "11,55 млн",
+      "normalizedPrice": "140 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841163924,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_761_m_69_et._7841163924?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 76,1 м², 6/9 эт.",
+    "description": "Номер квартиры: 64.\n\nЭтаж: 6.\n\nПлощадь: 76.10.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 798 590 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 798 590",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10798590,
+      "wasLowered": false,
+      "exponent": "10,8 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8192886627,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_694_m_416_et._8192886627?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 69,4 м², 4/16 эт.",
+    "description": "Номер квартиры: 258.\n\nЭтаж: 4.\n\nПлощадь: 69.40.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 910 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 910 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9910000,
+      "wasLowered": false,
+      "exponent": "9,91 млн",
+      "normalizedPrice": "142 795 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193221516,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_699_m_416_et._8193221516?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 69,9 м², 4/16 эт.",
+    "description": "Номер квартиры: 265.\n\nЭтаж: 4.\n\nПлощадь: 69.92.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 960 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 960 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9960000,
+      "wasLowered": false,
+      "exponent": "9,96 млн",
+      "normalizedPrice": "142 489 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7840965946,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_741_m_79_et._7840965946?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74,1 м², 7/9 эт.",
+    "description": "Номер квартиры: 115.\n\nЭтаж: 7.\n\nПлощадь: 74.10.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 366 590 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 366 590",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10366590,
+      "wasLowered": false,
+      "exponent": "10,37 млн",
+      "normalizedPrice": "139 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193649757,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_577_m_1316_et._8193649757?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 57,7 м², 13/16 эт.",
+    "description": "Номер квартиры: 349.\n\nЭтаж: 13.\n\nПлощадь: 57.67.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8800000,
+      "wasLowered": false,
+      "exponent": "8,8 млн",
+      "normalizedPrice": "152 513 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841623370,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_82_m_1016_et._7841623370?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "3-к. квартира, 82 м², 10/16 эт.",
+    "description": "Номер квартиры: 130.\n\nЭтаж: 10.\n\nПлощадь: 82.00.\n\nКорпус: Литер 4. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 553 800 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 553 800",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11553800,
+      "wasLowered": false,
+      "exponent": "11,55 млн",
+      "normalizedPrice": "140 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841491409,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_753_m_19_et._7841491409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "3-к. квартира, 75,3 м², 1/9 эт.",
+    "description": "Номер квартиры: 84.\n\nЭтаж: 1.\n\nПлощадь: 75.30.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 685 070 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 685 070",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10685070,
+      "wasLowered": false,
+      "exponent": "10,69 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 4897959950,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_739_m_1516_et._4897959950?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 73,9 м², 15/16 эт.",
+    "description": "Номер квартиры: 249.\n\nЭтаж: 15.\n\nПлощадь: 73.90.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 486 410 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 486 410",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10486410,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841393617,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_741_m_39_et._7841393617?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74,1 м², 3/9 эт.",
+    "description": "Номер квартиры: 91.\n\nЭтаж: 3.\n\nПлощадь: 74.10.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 440 690 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 440 690",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10440690,
+      "wasLowered": false,
+      "exponent": "10,44 млн",
+      "normalizedPrice": "140 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841315362,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_743_m_69_et._7841315362?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74,3 м², 6/9 эт.",
+    "description": "Номер квартиры: 25.\n\nЭтаж: 6.\n\nПлощадь: 74.30.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 497 050 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 497 050",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10497050,
+      "wasLowered": false,
+      "exponent": "10,5 млн",
+      "normalizedPrice": "141 279 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8192953604,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_649_m_99_et._8192953604?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 64,9 м², 9/9 эт.",
+    "description": "Номер квартиры: 441.\n\nЭтаж: 9.\n\nПлощадь: 64.93.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 360 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 360 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9360000,
+      "wasLowered": false,
+      "exponent": "9,36 млн",
+      "normalizedPrice": "144 222 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841642848,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_762_m_99_et._7841642848?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 76,2 м², 9/9 эт.",
+    "description": "Номер квартиры: 79.\n\nЭтаж: 9.\n\nПлощадь: 76.20.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 706 100 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 706 100",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10706100,
+      "wasLowered": false,
+      "exponent": "10,71 млн",
+      "normalizedPrice": "140 500 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841439696,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_743_m_39_et._7841439696?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74,3 м², 3/9 эт.",
+    "description": "Номер квартиры: 10.\n\nЭтаж: 3.\n\nПлощадь: 74.30.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 497 050 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 497 050",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10497050,
+      "wasLowered": false,
+      "exponent": "10,5 млн",
+      "normalizedPrice": "141 279 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193443239,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_635_m_1516_et._8193443239?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 63,5 м², 15/16 эт.",
+    "description": "Номер квартиры: 358.\n\nЭтаж: 15.\n\nПлощадь: 63.50.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 640 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 640 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9640000,
+      "wasLowered": false,
+      "exponent": "9,64 млн",
+      "normalizedPrice": "151 811 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841356312,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_761_m_29_et._7841356312?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 76,1 м², 2/9 эт.",
+    "description": "Номер квартиры: 48.\n\nЭтаж: 2.\n\nПлощадь: 76.10.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 722 490 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 722 490",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10722490,
+      "wasLowered": false,
+      "exponent": "10,72 млн",
+      "normalizedPrice": "140 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841039892,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_761_m_99_et._7841039892?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 76,1 м², 9/9 эт.",
+    "description": "Номер квартиры: 76.\n\nЭтаж: 9.\n\nПлощадь: 76.10.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 692 050 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 692 050",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10692050,
+      "wasLowered": false,
+      "exponent": "10,69 млн",
+      "normalizedPrice": "140 500 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8001575481,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_74_m_88_et._8001575481?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74 м², 8/8 эт.",
+    "description": "Номер квартиры: 81.\n\nЭтаж: 8.\n\nПлощадь: 74.00.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 545 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 545 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10545000,
+      "wasLowered": false,
+      "exponent": "10,54 млн",
+      "normalizedPrice": "142 500 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193177204,
+    "microCategoryId": 4916,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_766_m_89_et._8193177204?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "3-к. квартира, 76,6 м², 8/9 эт.",
+    "description": "Номер квартиры: 428.\n\nЭтаж: 8.\n\nПлощадь: 76.59.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "11 340 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "11 340 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 11340000,
+      "wasLowered": false,
+      "exponent": "11,34 млн",
+      "normalizedPrice": "148 042 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841782173,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_698_m_1316_et._7841782173?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 69,8 м², 13/16 эт.",
+    "description": "Номер квартиры: 65.\n\nЭтаж: 13.\n\nПлощадь: 69.80.\n\nКорпус: Литер 4. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 114 020 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 114 020",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10114020,
+      "wasLowered": false,
+      "exponent": "10,11 млн",
+      "normalizedPrice": "144 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193687861,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_577_m_1616_et._8193687861?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 57,7 м², 16/16 эт.",
+    "description": "Номер квартиры: 370.\n\nЭтаж: 16.\n\nПлощадь: 57.67.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 890 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 890 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8890000,
+      "wasLowered": false,
+      "exponent": "8,89 млн",
+      "normalizedPrice": "154 073 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841428496,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_743_m_49_et._7841428496?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 74,3 м², 4/9 эт.",
+    "description": "Номер квартиры: 15.\n\nЭтаж: 4.\n\nПлощадь: 74.30.\n\nКорпус: Литер 2. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 497 050 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 497 050",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10497050,
+      "wasLowered": false,
+      "exponent": "10,5 млн",
+      "normalizedPrice": "141 279 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193461423,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_694_m_1016_et._8193461423?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 69,4 м², 10/16 эт.",
+    "description": "Номер квартиры: 324.\n\nЭтаж: 10.\n\nПлощадь: 69.40.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 010 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 010 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10010000,
+      "wasLowered": false,
+      "exponent": "10,01 млн",
+      "normalizedPrice": "144 236 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193344492,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_635_m_916_et._8193344492?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 63,5 м², 9/16 эт.",
+    "description": "Номер квартиры: 312.\n\nЭтаж: 9.\n\nПлощадь: 63.50.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 330 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 330 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9330000,
+      "wasLowered": false,
+      "exponent": "9,33 млн",
+      "normalizedPrice": "146 929 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8033228180,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_739_m_1616_et._8033228180?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 73,9 м², 16/16 эт.",
+    "description": "Номер квартиры: 162.\n\nЭтаж: 16.\n\nПлощадь: 73.90.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 486 410 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 486 410",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10486410,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 4897452320,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_739_m_1616_et._4897452320?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 73,9 м², 16/16 эт.",
+    "description": "Номер квартиры: 255.\n\nЭтаж: 16.\n\nПлощадь: 73.90.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 486 410 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 486 410",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10486410,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 4898148348,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_739_m_1416_et._4898148348?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 73,9 м², 14/16 эт.",
+    "description": "Номер квартиры: 243.\n\nЭтаж: 14.\n\nПлощадь: 73.90.\n\nКорпус: Литер 1. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 486 410 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 486 410",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10486410,
+      "wasLowered": false,
+      "exponent": "10,49 млн",
+      "normalizedPrice": "141 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30",
+      "addressLinks": {
+        "houseLink": {
+          "text": " д. 30",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_bulgar_30/103475182?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Булгар",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/novostroyka/street/ulitsa_bulgar/96563-ASgBAgECA0SSA8YQ5geOUujIE~bkCwFF3AcPInVsaXRzYV9idWxnYXIi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89203",
+      "lng": "52.28391",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 7841540926,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_698_m_516_et._7841540926?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 69,8 м², 5/16 эт.",
+    "description": "Номер квартиры: 101.\n\nЭтаж: 5.\n\nПлощадь: 69.80.\n\nКорпус: Литер 4. Жилой комплекс «Ривьера life» — комплекс домов комфорт‑класса на берегу «Городского озера», в шаговой доступности от делового центра. Проект включает кирпичные здания с квартирами европланировки от двух- до четырехкомнатных общей площадью от 41.4 до 95.7 кв. М. Без внутренней отделки.\n\nСовременная архитектура, продуманная инфраструктура и уникальные планировки создают комфортную среду для жизни. Благоустроенная набережная открывает живописные виды, позволяя сочетать активный городской ритм с отдыхом у воды.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 114 020 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 114 020",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10114020,
+      "wasLowered": false,
+      "exponent": "10,11 млн",
+      "normalizedPrice": "144 900 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Булгар, д. 30"
+    },
+    "coords": {
+      "lat": "54.89041",
+      "lng": "52.28283",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Булгар, д. 30"
+    },
+    "developmentId": 4585258,
+    "developmentName": "ЖК «Ривьера life» (Ривьера лайф)",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  },
+  {
+    "id": 8193507847,
+    "microCategoryId": 4917,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_649_m_89_et._8193507847?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJpR015elNsMmhlbWthUmJWIjt9gqRjPD8AAAA",
+    "title": "2-к. квартира, 64,9 м², 8/9 эт.",
+    "description": "Номер квартиры: 432.\n\nЭтаж: 8.\n\nПлощадь: 64.93.\n\nКорпус: Дом А-4.1. Жилой комплекс «Экополис» — это комплексная застройка с кирпичными зданиями на улице Объездная. Проектированием занимается Аспэк-Домстрой, стремящийся создать новую норму жизни и преобразить облик города Альметьевск. В комплексе предложены разнообразные планировки, однако внутренняя отделка квартир не осуществляется застройщиком. Одними из отличительных преимуществ жилого комплекса являются увеличенная высота потолков до 2,7 метра и вентиляционные клапаны, обеспечивающие чистоту воздуха, поддерживая связь с лесным массивом поблизости.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 360 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 360 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9360000,
+      "wasLowered": false,
+      "exponent": "9,36 млн",
+      "normalizedPrice": "144 222 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Объездная, стр. А-4.1"
+    },
+    "coords": {
+      "lat": "54.89002",
+      "lng": "52.23803",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Объездная, стр. А-4.1"
+    },
+    "developmentId": 7794939,
+    "developmentName": "ЖК «Экополис»",
+    "parsed_at": "2026-09-08T10:25:26.178905"
+  }
+]

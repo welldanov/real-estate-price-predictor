@@ -1,0 +1,1988 @@
+[
+  {
+    "id": 8256413008,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_595_m_99_et._8256413008?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 59,5 м², 9/9 эт.",
+    "description": "Тихая гавань на 9 этаже с панорамой города и двумя балконами. Въезжай и живи!\nУстали от серых стен и шумных соседей? Представляем квартиру, где каждая деталь продумана для вашего спокойствия и комфорта. Это не просто жилье, а пространство, которое подстраивается под вас.\nЧто вас ждет:\nВид, от которого захватывает дух: Из окон открывается потрясающая панорама города. Каждое утро будет встречать вас огнями города, а вечер — уютным закатом. Два взгляда на город:\nДва балкона выходят на разные стороны. Можно выбрать, где пить утренний кофе, а где уединиться вечером, любуясь городскими огнями.\nТишина и покой: Красивый вид, здесь царит удивительная тишина. Район создан для спокойной жизни, где можно отдохнуть от городской суеты.\nПродуманная геометрия: 59,5кв. М. Уютного пространства.\nПланировка: 2 спальни на разные стороны + гостиная (солнце с утра и вечером!).\nАтмосфера уюта: В гостиной смонтирована уникальная система освещения, разделенная на три независимые зоны. Всё подключено к «Алисе» — просто скажите слово, и свет настроит романтический вечер или яркое освещение для уютных посиделок не вставая с дивана. В зоне гостиной — стильные стеклянные шкафы с подсветкой. Они создают ту самую магию для долгих уютных вечеров! В спальнях предусмотрены два типа освещения (верхний свет и дополнительные сценарии), что позволяет создавать нужную атмосферу в любое время суток.\nКухня мечты:\nВам не нужно ничего покупать! Остается современная техника уже встроена посудомоечная машина и индукционная плита, духовой шкаф и холодильник. Готовка станет легким и приятным процессом.\nЭнергия под контролем: Мы полностью заменили проводку во всей квартире. Теперь блок электроэнергии разделен на все секции. В розетку уже вмонтирован кабель для телевизора. Спрятанные провода — чистота стен обеспечена. Дополнительный переключатель зоны света коридора и прихожей, чтобы не ходить лишние шаги.\nТепло и комфорт: Ванная и туалет отделаны высококачественной плиткой Kerama Marazzi. Красота, которая не боится влаги. Во всех ключевых зонах (ванна, туалет, коридор) установлен теплый пол. Забудьте о холодной плитке по утрам!\nПорядок во всем: Просторная гардеробная комната решит вопрос хранения одежды. Здесь есть место для всего!\nЭто идеальный вариант для тех, кто ценит технологии, тишину и готов жить в красоте.\nЛокация: Развитый микрорайон в шаговой доступности от ключевых образовательных учреждений города.\n\nРазвитая инфраструктура для всей семьи:\nОбъект расположен в непосредственной близости от:\n\nАльметьевского государственного технологического университета «Высшая школа нефти» (Агту Вшн) — ведущего вуза для подготовки кадров нефтяной промышленности.\n\nАльметьевского колледжа физической культуры (ул. Ризы Фахретдина, 5) — единственного в республике профильного колледжа.\n\nЧастного образовательного учреждения «Татнефть-школа» (ул. Ризы Фахретдина, 9А) — современного комплекса с детским садом и школой.\n\nДетского сада №56 «Крепыш» (ул. Советская, 157) — комбинированного вида.\n\nСредней общеобразовательной школы №20 (ул. Тельмана, 86).",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8500000,
+      "wasLowered": false,
+      "exponent": "8,5 млн",
+      "normalizedPrice": "142 857 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Советская ул., 153В",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 153В",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/sovetskaya_ul_153v/70804676?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Советская ул.",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/sovetskaya_ulitsa/21254-ASgBAgECA0SSA8YQ5geMUujIE4zMAgFF3AcTInNvdmV0c2theWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.9112689599821",
+      "lng": "52.32277018518066",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Советская улица, 153В"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8254787666,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_30_m_45_et._8254787666?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 30 м², 4/5 эт.",
+    "description": "Продается уютная однокомнатная квартира на четвертом этаже кирпичного дома. Дом оснащен газоснабжением, что обеспечивает удобство в быту. Из окон открывается вид на улицу, добавляя свет и простор. Квартира с косметическим ремонтом, что позволяет сразу въехать и жить. Просторная кухня площадью 7 кв. М оборудована всем необходимым для комфортного приготовления пищи. В комнате установлен телевизор и имеется вместительный шкаф для хранения вещей. Во дворе есть детская площадка, а также открытая парковка для вашего автомобиля.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 350 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 350 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3350000,
+      "wasLowered": false,
+      "exponent": "3,35 млн",
+      "normalizedPrice": "111 667 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пр-т Строителей, 45А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 45А",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/pr-t_stroiteley_45a/135406?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Строителей",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/prospekt_stroiteley/323-ASgBAgECA0SSA8YQ5geMUujIE4YFAUXcBxUicHJvc3Bla3Rfc3Ryb2l0ZWxleSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90966034",
+      "lng": "52.27843857",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, проспект Строителей, 45А"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8317556831,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_59_m_15_et._8317556831?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 59 м², 1/5 эт.",
+    "description": "Срочная продажа.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5200000,
+      "wasLowered": false,
+      "exponent": "5,2 млн",
+      "normalizedPrice": "88 136 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ризы Фахретдина, 16",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 16",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_rizy_fahretdina_16/70921039?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ризы Фахретдина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_rizy_fahretdina/19406-ASgBAgECA0SSA8YQ5geMUujIE5yvAgFF3AcYInVsaXRzYV9yaXp5X2ZhaHJldGRpbmEi"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90809631",
+      "lng": "52.31750488",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ризы Фахретдина, 16"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 7799692894,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_443_m_15_et._7799692894?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 443 м², 1/5 эт.",
+    "description": "2-х к квартира «Заезжай и живи» с качественным ремонтом и мебелью! Продается уютная, теплая 2-комнатная квартира в г. Альметьевск по адресу ул. Маяковского, д. 4. Квартира расположена на удобном 1-м этаже — идеальный вариант для семей с детьми, пожилых людей и тех, кто ценит комфорт. В квартире выполнен капитальный ремонт «для себя», заменены все скрытые коммуникации: Полностью поменяна вся проводка. Установлены новые надежные трубы. Сделана качественная бетонная стяжка пола на кухне и в ванной, в остальных комнатах сухая стяжка. Огромный плюс для первого этажа — смонтирован теплый пол (в ванной), дома всегда сухо, тепло и комфортно. Интерьер и бонусы, которые остаются вам: Современные натяжные потолки во всей квартире. Стены украшены тремя зеркальными панно, которые визуально расширяют пространство и добавляют света. Вместительные встроенные шкафы-купе от потолка до пола с зеркальными дверями (готовая гардеробная система). Отличная локация: спокойный район, в шаговой доступности школа 16,2, детские сады, магазины, остановки транспорта, центр «Комсомольский», поликлиника 3, детская поликлиника, пенсионный фонд, Гаи, Кампусы Агни, ТЦ Девонский. Квартира без обременений. Звоните, покажем в удобное для вас время!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 150 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 150 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4150000,
+      "wasLowered": false,
+      "exponent": "4,15 млн",
+      "normalizedPrice": "9 368 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Маяковского, 4",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 4",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_mayakovskogo_4/70902384?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Маяковского",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_mayakovskogo/75491-ASgBAgECA0SSA8YQ5geMUujIE8abCQFF3AcVInVsaXRzYV9tYXlha292c2tvZ28i"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,0 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.91128111244262",
+      "lng": "52.310700143650465",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Маяковского, 4"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 7990996678,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_236_m_22_et._7990996678?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 23,6 м², 2/2 эт.",
+    "description": "Продам квартиру в Зоне Д. Квартира расположена на 2 этаже с индивидуальным отоплением. Один взрослый собственник.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 250 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 250 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3250000,
+      "wasLowered": false,
+      "exponent": "3,25 млн",
+      "normalizedPrice": "137 712 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н Дружба, ул. Абдуллы Алиша, 23",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 23",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_abdully_alisha_23/73283450?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "мкр-н Дружба, ул. Абдуллы Алиша",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_abdully_alisha/75505-ASgBAgECA0SSA8YQ5geMUujIE~KbCQFF3AcXInVsaXRzYV9hYmR1bGx5X2FsaXNoYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90227509",
+      "lng": "52.23845291",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, микрорайон Дружба, улица Абдуллы Алиша, 23"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8225822150,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_568_m_24_et._8225822150?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 56,8 м², 2/4 эт.",
+    "description": "Продается уютная трехкомнатная квартира в центре города, с косметическим ремонтом. На втором этаже, с балконом. Все комнаты изолированы, что обеспечивает комфорт и приватность. Из окон открывается вид на тихий двор, где расположена детская площадка. Дом кирпичный, построен в 1962 году, что гарантирует хорошую тепло- и звукоизоляцию.\n\nКухня новая, качественная, встроенная-«Мария„В квартире есть балкон, который станет отличным местом для отдыха. Ванная комната совмещенная, оформлена плиткой, установлена ванна. В гостиной установлен кондиционер(новый), встроен большой, вместительный шкаф„Мария”(на месте кладовки)Установлены новые качественные межкомнатные (деревянные) двери.\n\nДом подключен к газоснабжению, имеется газовая колонка, что позволяет экономить на коммунальных услугах. Парковка открытая во дворе, что удобно для владельцев автомобилей, всегда есть место для машины Двор тупиковый. Тихий, спокойный, соседи замечательные. Всё в шаговой доступности: два садика во дворе, школа√12, каскад прудов, театр, городской парк, мечеть, стадион„Алнас”, художественная школа, 33медсанчасть, кафе, пекарни, магнит, пятерочка, аптеки, фотостудия „Hom”, Юбилейный, бассейн ” Дельфин„школа танцев „Санрайс”, ” дом Ветеранов„и много всего ещё. Улица Гагарина, тихая, красивая, с цветущими весной яблонькамиодин взрослый собственник, без детских вопросов, долгов и обременений! Собственник.\n. Торг, потенциальному покупателю.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6500000,
+      "wasLowered": false,
+      "exponent": "6,5 млн",
+      "normalizedPrice": "114 437 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Гагарина, 15",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 15",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_gagarina_15/70800405?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Гагарина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_gagarina/8385-ASgBAgECA0SSA8YQ5geMUujIE4KDAQFF3AcRInVsaXRzYV9nYWdhcmluYSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.903394372744124",
+      "lng": "52.29379516174906",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "ул. Гагарина, 15"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8461635470,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_57_m_99_et._8461635470?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 57 м², 9/9 эт.",
+    "description": "Продам 2-х комнатную квартиру со свежим дизайнерским ремонтом. Квартира полностью оборудована. Большой шкаф в коридоре и в спальне. На кухне имеется вся необходимая техника, в т. Ч. Посудомоечная машина. Кухня совмещена с залом, что создает большое пространство и уют. Есть теплый пол. Квартира угловая, очень светлая, из окон открывается вид на улицу, можно любоваться красивыми закатами. Закрытый двор, своя детская и спорт площадка. В ЖК имеется собственная закрытая парковка со шлагбаумом и консьерж. В доме есть частный садик «Алсу». Рядом школа «Адымнар» и еще один садик.\nСобственник.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12000000,
+      "wasLowered": false,
+      "exponent": "12 млн",
+      "normalizedPrice": "210 526 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ивана Новикова, 1лит2",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 1лит2",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_ivana_novikova_1lit2/70905818?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ивана Новикова",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_ivana_novikova/75512-ASgBAgECA0SSA8YQ5geMUujIE_CbCQFF3AcXInVsaXRzYV9pdmFuYV9ub3Zpa292YSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89028931",
+      "lng": "52.26432419",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ивана Новикова, 1лит2"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8188505271,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_30_m_34_et._8188505271?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 30 м², 3/4 эт.",
+    "description": "Уютная 1-к. Квартира в центре города на 3 этаже с ремонтом. В с/у кафель, балкон не застеклен. Собственник взрослый. Кухня новая встроенная остается.\n\nЛокация — сердце города.\n\nСоседи сверху/снизу не беспокоят (средний этаж).\n\nПочему эту квартиру стоит посмотреть:\n\nИдеальный баланс: тишина среднего этажа + вся инфраструктура под окнами (огромный выбор магазинов и Пвз).\n\nДля семьи: до школ и садиков — пешком, без пробок.\n\nСобственник взрослый и адекватный( не единственная недвижимость). Вся сумма в договоре.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 850 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 850 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3850000,
+      "wasLowered": false,
+      "exponent": "3,85 млн",
+      "normalizedPrice": "128 333 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ленина, 63",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 63",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_lenina_63/73072082?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ленина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_lenina/4140-ASgBAgECA0SSA8YQ5geMUujIE9hAAUXcBw8idWxpdHNhX2xlbmluYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89765167",
+      "lng": "52.29370117",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ленина, 63"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8415792500,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_355_m_27_et._8415792500?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 35,5 м², 2/7 эт.",
+    "description": "Описание.\nПредлагaю вашeму внимaнию уютную однокомнатную квaртиpу со свeжим peмoнтoм, распoлoженная пo aдpесу: мкр. Западные ворoтa, ул. Юнуca Аминовa, д. 11.\nМкр. Запaдныe воpота — один из самых нoвых, динaмичнo развивaющиxся и удoбныx для жизни.\n\nKвapтиpа гoтoвa к прoдaжe!\n\nО квартире:\nНе угловая. Свежий ремонт. Располагается на 2 этаже семиэтажного дома.\nИмеет просторную застекленную лоджию 6 кв. М. Теплые полы в прихожей и на кухне для большего комфорта. Комнаты просторные. Окна выходят во двор, на детскую площадку. Совмещенный санузел.\nБонус:\nОставляем вместительный шкаф (Дятьково), кухонный гарнитур.\n\nО доме:\nПанельный дом 2009 года постройки с благоустроенной территорией и чистыми подъездами.\n\nО районе:\nХорошая транспортная доступность. Большая, наземная парковка в шаговой доступности, всегда есть свободные места.\n-Работают крупные ТЦ («Западный»), гипермаркеты («Лента»), магазины сетей «Пятерочка», «Магнит», «Чижик».\n-Есть аптеки, пункты выдачи маркетплейсов, -Офисы врачей.\n\nО сделке:\n-Полная проверка юридической чистоты объекта.\n-Помощь в одобрении ипотеки.\n-Сопровождение сделки на всех этапах.\n-Быстрый выход на сделку без детских вопросов и обременений.\n\nРеальному Покупателю Разумный Торг Уместен.\n\nКод пользователя: 209029.\nНомер в базе: 14003506.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4700000,
+      "wasLowered": false,
+      "exponent": "4,7 млн",
+      "normalizedPrice": "132 394 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Юнуса Аминова, 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 11",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_yunusa_aminova_11/70899971?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Юнуса Аминова",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_yunusa_aminova/21255-ASgBAgECA0SSA8YQ5geMUujIE47MAgFF3AcXInVsaXRzYV95dW51c2FfYW1pbm92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.904577",
+      "lng": "52.262582",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский р-н, муниципальное образование Альметьевск, Альметьевск, ул. Юнуса Аминова, 11"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8267743527,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_356_m_25_et._8267743527?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 35,6 м², 2/5 эт.",
+    "description": "Продается 1 ком квартира, с отличным ремонтом, в квартире сделано абсолютно все. Заменена: электропроводка, канализационный стояк, полы залиты и выровнены, окна новые, балкон полностью сделан. Квартира находится в 4 микро районе, рядом детские сады, школы. Без Долгов и обременения. 1 взрослый собственник. Ключи в день сделки, свободна от проживания.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5300000,
+      "wasLowered": false,
+      "exponent": "5,3 млн",
+      "normalizedPrice": "148 876 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Гафиатуллина, 35",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 35",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_gafiatullina_35/70858142?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Гафиатуллина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_gafiatullina/16070-ASgBAgECA0SSA8YQ5geMUujIE4z7AQFF3AcVInVsaXRzYV9nYWZpYXR1bGxpbmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.9067376394461",
+      "lng": "52.26732942684441",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Гафиатуллина, 35"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8039165728,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_454_m_23_et._8039165728?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 45,4 м², 2/3 эт.",
+    "description": "Собственник! Продам 2-к квартиру 45,4 м² с евроремонтом на Тукая, 56.\n\nЗаезжай и живи! Продаю свою светлую, очень теплую и уютную двухкомнатную квартиру. Делали всё для себя, с душой и вниманием к деталям.\n\nСвежий евроремонт: Полностью заменена проводка, выровнены стены, на полу качественное покрытие, современные натяжные потолки и стильное освещение. Санузел в кафеле.\n\nКомфортный 2 этаж: Идеальная высота — не нужно высоко подниматься, при этом в окна никто не заглядывает.\n\nОтличная площадь: 45,4 кв. М. Грамотно использованного пространства. Комнаты правильной формы, много воздуха и света.\n\nОгромный плюс: Я продаю квартиру самостоятельно, поэтому вы не переплачиваете риелторам огромные комиссии за воздух!\n\nИнфраструктура развитая: рядом Нефтяной институт (Агту/Агни), школы, детские сады, продуктовые супермаркеты, кафе и остановки. Всё в шаговой доступности.\n\nЮридическая чистота:\n\nКвартира без долгов и обременений.\n\nВсе счетчики оплачены, задолженностей по Жкх нет.\n\nБыстрый выход на сделку.\n\nВажно: Риелторам не звонить и не предлагать свои услуги! Договоры не заключаю, помощь в продаже не требуется. Звонить только при наличии реального покупателя!\n\nЗвоните в любое время, с удовольствием покажу вам квартиру лично.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5100000,
+      "wasLowered": false,
+      "exponent": "5,1 млн",
+      "normalizedPrice": "112 335 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пр-т Габдуллы Тукая, 56",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 56",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/pr-t_gabdully_tukaya_56/70776080?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Габдуллы Тукая",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/prospekt_gabdully_tukaya/10637-ASgBAgECA0SSA8YQ5geMUujIE5qmAQFF3AcaInByb3NwZWt0X2dhYmR1bGx5X3R1a2F5YSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90022278",
+      "lng": "52.31269073",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, проспект Габдуллы Тукая, 56"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8254431723,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_110_m_59_et._8254431723?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 110 м², 5/9 эт.",
+    "description": "Пpодаётcя 3-х кoмнатная, просторнaя, теплая, квартирa, в кирпичном дoмe, в paйoне с самoй развитoй инфpaстpуктуpoй в гоpoдe, на 5 этаже. Просторный коридор, раздельные большие комнаты, кухня-гостинная, 3 лоджии, выход из каждой комнаты. Мебель и техника в квартире от европейских производителей (Италия, Испания, Германия, США, Япония), ремонт выполнен из качественных материалов, и руками профессиональных ремонтников. В квартире стоят деревянные евроокна, Территория дома огорожена забором, въезд/выезд через откатные ворота, с парковочным местом на прилегающей территории дома. Квартира без долгов и обременений. Прямая продажа без посредников. Полная стоимость в договоре. Один взрослый собственник. Без обременений. Торг разумный возможен.\n\nP. S. Риэлторам- вы работаете не со мной, вы работаете с Покупателем, экскурсии не провожу, показ только потенциальному покупателю.\nОбмен ни на что не интересен.\nЕсли вы считаете, что дорого или у Вас не хватает денег — просьба не писать и не звонить.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "16 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "16 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 16000000,
+      "wasLowered": false,
+      "exponent": "16 млн",
+      "normalizedPrice": "145 455 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пр-т Строителей, 16",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 16",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/pr-t_stroiteley_16/71002782?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "пр-т Строителей",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/prospekt_stroiteley/323-ASgBAgECA0SSA8YQ5geMUujIE4YFAUXcBxUicHJvc3Bla3Rfc3Ryb2l0ZWxleSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.903484",
+      "lng": "52.269858",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, проспект Строителей, 16"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 3996872773,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_613_m_29_et._3996872773?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 61,3 м², 2/9 эт.",
+    "description": "Пpoдaется двухкомнатная не угловая квартиpа от собственника. Koмнaты изoлиpованные, вид во двор. B квapтирe большая лоджия. Пpи нeобхoдимoсти ocтaётcя вся мебель. Есть детский вопрос, все документы готовы, с опеки тоже, можно выйти на сделку уже сейчас.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7300000,
+      "wasLowered": false,
+      "exponent": "7,3 млн",
+      "normalizedPrice": "119 086 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шевченко, 160",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 160",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_shevchenko_160/87106?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шевченко",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_shevchenko/11789-ASgBAgECA0SSA8YQ5geMUujIE5q4AQFF3AcTInVsaXRzYV9zaGV2Y2hlbmtvIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.901869",
+      "lng": "52.25553",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Шевченко, 160"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8309642704,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_35_m_39_et._8309642704?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 35 м², 3/9 эт.",
+    "description": "Продается квартира в хорошем районе. Рядом рынок, школа и все необходимое. Возможен торг. Собственник. Без риелтор.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3700000,
+      "wasLowered": false,
+      "exponent": "3,7 млн",
+      "normalizedPrice": "105 714 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Юнуса Аминова, 9",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 9",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_yunusa_aminova_9/358809?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Юнуса Аминова",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_yunusa_aminova/21255-ASgBAgECA0SSA8YQ5geMUujIE47MAgFF3AcXInVsaXRzYV95dW51c2FfYW1pbm92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90523911",
+      "lng": "52.26238251",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Юнуса Аминова, 9"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8115869558,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_13_m_35_et._8115869558?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 13 м², 3/5 эт.",
+    "description": "Ремонт хороший делался под себя.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1700000,
+      "wasLowered": false,
+      "exponent": "1,7 млн",
+      "normalizedPrice": "130 769 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шевченко, 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 7",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_shevchenko_7/73120170?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шевченко",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_shevchenko/11789-ASgBAgECA0SSA8YQ5geMUujIE5q4AQFF3AcTInVsaXRzYV9zaGV2Y2hlbmtvIg"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89325876349053",
+      "lng": "52.31175131548953",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Шевченко, 7"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8258001108,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_28_m_55_et._8258001108?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 28 м², 5/5 эт.",
+    "description": "Продается уютная однокомнатная квартира в кирпичном доме, построенном в 1977 году. Общая площадь квартиры составляет 29 кв. М, из которых 18 кв. М — жилая площадь и 6 кв. М занимает кухня. Квартира расположена на 5 этаже 5-этажного дома.\n\nВ квартире сделан косметический ремонт, что делает ее готовой для комфортного проживания. Просторная комната с выходом на балкон позволит наслаждаться свежим воздухом и видом во двор. Совмещенный санузел выполнен в современной классической стилистике, что добавляет удобство и практичность. Высота потолков составляет 2,5 метра, благодаря чему пространство кажется еще более светлым и просторным.\n\nСам дом находится в хорошем состоянии, кирпичная конструкция обеспечивает надежность и теплоизоляцию. Наземная парковка рядом с домом позволяет без труда оставить автомобиль. В доме регулярно проводятся необходимые ремонтные работы, что гарантирует его долговечность.\n\nРайон, в котором расположена квартира, порадует развитой инфраструктурой. В шаговой доступности находятся школы и детские сады, что делает это место идеальным для семей с детьми. Магазины и клиники также находятся рядом, что обеспечивает удобство для повседневных дел. Хорошая транспортная доступность позволяет быстро добраться до любых районов города.\n\nКвартира продается по договору купли-продажи, возможна ипотека. Помогу с ипотекой.\n\nПриглашаем вас на просмотр квартиры в удобное для вас время. Не упустите возможность стать владельцем уютного жилья в отличном районе! Звоните, чтобы записаться на просмотр и задать все интересующие вопросы. Ждем вас!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 310 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 310 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2310000,
+      "wasLowered": false,
+      "exponent": "2,31 млн",
+      "normalizedPrice": "82 500 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Сулеймановой, 23",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 23",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_suleymanovoy_23/70749723?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Сулеймановой",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_suleymanovoy/15908-ASgBAgECA0SSA8YQ5geMUujIE8j4AQFF3AcVInVsaXRzYV9zdWxleW1hbm92b3ki"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.907325",
+      "lng": "52.328509",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский р-н, муниципальное образование Альметьевск, Альметьевск, ул. Сулеймановой, 23"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8120104107,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_35_m_59_et._8120104107?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 35 м², 5/9 эт.",
+    "description": "Продается уютная однокомнатная квартира с косметическим ремонтом ( По Желанию остается мебель и бытовая техника) на пятом этаже девятиэтажного панельного дома. Дом построен в 1984 году, оснащен пассажирским лифтом. Из окон открывается вид во двор, где расположена спортивная площадка.\n\nВ квартире имеется просторная лоджия с остеклением, что добавляет дополнительное пространство для отдыха. Санузел совмещенный, оборудован стиральной машиной. Кухня компактная, с газовой плитой и встроенными шкафами.\n\nВо дворе открытая парковка, что удобно для владельцев автомобилей. В подъезде есть мусоропровод.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 400 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 400 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3400000,
+      "wasLowered": false,
+      "exponent": "3,4 млн",
+      "normalizedPrice": "97 143 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Тельмана, 66",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 66",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_telmana_66/923510?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Тельмана",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_telmana/27291-ASgBAgECA0SSA8YQ5geMUujIE7aqAwFF3AcQInVsaXRzYV90ZWxtYW5hIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90878296",
+      "lng": "52.32565308",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Тельмана, 66"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8353841489,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_44_m_35_et._8353841489?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 44 м², 3/5 эт.",
+    "description": "Продается двухкомнатная квартира в кирпичном доме. Квартира с ремонтом, не угловая, светлая, теплая.\nИз мебели остается: кухонный гарнитур, шкаф купе, прих. Шкаф, 2 дивана.\nИз техники остаётся:\nХолодильник, стиральная машина.\nПерепланировка узаконена. Реальному покупателю торг.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 870 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 870 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4870000,
+      "wasLowered": false,
+      "exponent": "4,87 млн",
+      "normalizedPrice": "110 682 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Мусы Джалиля, 17",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 17",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_musy_dzhalilya_17/70801551?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Мусы Джалиля",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_musy_dzhalilya/75495-ASgBAgECA0SSA8YQ5geMUujIE86bCQFF3AcXInVsaXRzYV9tdXN5X2R6aGFsaWx5YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.896640623139206",
+      "lng": "52.2948946987033",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Мусы Джалиля, 17"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8357028978,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_626_m_69_et._8357028978?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 62,6 м², 6/9 эт.",
+    "description": "Редкость На Рынке! Продаётся просторная 2-комнатная квартира, 62,4 м², в одном из лучших домов района.\n\nКвартира чистая, ухоженная, полностью готова к проживанию. Все инженерные системы в порядке — можно заезжать и не заниматься срочными ремонтами.\n\nЧто внутри:\n\nПросторная кухня 14,1 м² — это центр дома, где поместится и большая семья, и компания друзей.\nДве застеклённые лоджии (по 3 м) — дополнительное полезное пространство.\nРаздельный санузел — отделка кафелем, чистота и порядок.\nНатяжные потолки во всех комнатах.\n\nКоммуникации обновлены: заменены все окна, электропроводка, трубы отопления, установлена новая входная дверь. Всё работает надёжно.\n\nЧто остаётся — экономьте сразу:\n\nВся мебель.\nКухонный гарнитур с качественной техникой: варочная панель, духовка, вытяжка, холодильник и посудомоечная машина.\nСтиральная машина, 2 кондиционера (в зале и на кухне) — комфорт в любое время года.\n\nПочему это хороший вариант:\n\nТишина и покой — толстые стены, отличная шумоизоляция, соседи спокойные со всех сторон.\nПарковка — места всегда есть, даже в час пик.\nИнфраструктура — школы, садики, различные магазины, пункты выдачи, озеро, ТЦ «Алсу», рынок, спорткомплекс «Мирас», парк «Здоровье» — всё в пешей доступности.\nТранспортная развязка — удобный выезд, без пробок.\n\nЮридически чисто:\n\nОдин взрослый собственник.\nДокументы готовы, выход на сделку быстрый.\nТорг реальному покупателю.\n\nЗвоните — покажу в удобное время.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7700000,
+      "wasLowered": false,
+      "exponent": "7,7 млн",
+      "normalizedPrice": "123 003 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шевченко, 124",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 124",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_shevchenko_124/335848?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шевченко",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_shevchenko/11789-ASgBAgECA0SSA8YQ5geMUujIE5q4AQFF3AcTInVsaXRzYV9zaGV2Y2hlbmtvIg"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,8 · 5 отзывов",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.896858",
+      "lng": "52.261216",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Шевченко, 124"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8290577962,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_53_m_39_et._8290577962?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 53 м², 3/9 эт.",
+    "description": "Я собственник. Квартира переделанная в двухкомнатную, тк комнаты большие и просторные, потолки высоченные. Уютная квартира евродвушка в элитном доме с хорошими соседями и в лучшем микрорайоне городе. Квартира просторная и уютная, продаем в связи с расширением жилплощади. Нужна трешка и больше, тк лети выросли.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 150 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 150 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6150000,
+      "wasLowered": false,
+      "exponent": "6,15 млн",
+      "normalizedPrice": "116 038 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шевченко, 156",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 156",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_shevchenko_156/126698?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Шевченко",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_shevchenko/11789-ASgBAgECA0SSA8YQ5geMUujIE5q4AQFF3AcTInVsaXRzYV9zaGV2Y2hlbmtvIg"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "2 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90123749",
+      "lng": "52.25586319",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Шевченко, 156"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8236195385,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_35_m_15_et._8236195385?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 35 м², 1/5 эт.",
+    "description": "Продается светлая однокомнатная квартира общей площадью 35 кв. М в спокойном районе с развитой инфраструктурой. Идеальный вариант для старта или инвестиций.\n\nГлавное преимущество этой квартиры — вы не переплачиваете за чужой старый ремонт!\n\nНовая электропроводка. Вся электрика заменена на медь по современным стандартам. Установлен новый щиток со множеством автоматов, выведены точки под розетки и светильники во всех помещениях. Вам не придется штробить стены и жить в пыли — можно сразу приступать к чистовой отделке.\nСоседи спокойные.\nКвартира теплая, зимой счета за отопление минимальные.\n\nОтличная транспортная доступность, без пробок можно быстро добраться до центра города, остановка недалеко.\nВо дворе есть выделенные места для парковки.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 999 999 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 999 999",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2999999,
+      "wasLowered": false,
+      "exponent": "3 млн",
+      "normalizedPrice": "85 714 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Геофизическая ул., 13",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 13",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/geofizicheskaya_ul_13/1367692?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Геофизическая ул.",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/geofizicheskaya_ulitsa/75490-ASgBAgECA0SSA8YQ5geMUujIE8SbCQFF3AcYImdlb2ZpemljaGVza2F5YV91bGl0c2Ei"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89957428",
+      "lng": "52.36793518",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, Геофизическая улица, 13"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 7601935308,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_663_m_79_et._7601935308?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 66,3 м², 7/9 эт.",
+    "description": "Вашему вниманию представлена 2 комнатная квартира в хорошем доме и с отличной локацией! Хороший этаж, прекрасный двор с детской площадкой мечта для семейной пары с детьми.\nКомнаты правильной формы, просторная кухня порадует хозяйку квартиры с первого взгляда!\nВся сумма в договоре!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7300000,
+      "wasLowered": false,
+      "exponent": "7,3 млн",
+      "normalizedPrice": "110 106 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ленина, 195",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 195",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_lenina_195/70738608?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ленина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_lenina/4140-ASgBAgECA0SSA8YQ5geMUujIE9hAAUXcBw8idWxpdHNhX2xlbmluYSI"
+        }
+      },
+      "rating": {
+        "type": "rating",
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "4,7 · 3 отзыва",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90427017",
+      "lng": "52.25515366",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ленина, 195, подъезд 2"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8299684404,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_30_m_45_et._8299684404?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 30 м², 4/5 эт.",
+    "description": "Продам квартиру, собственник, риелторов просьба не беспокоить. Не большой торг уместен.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3500000,
+      "wasLowered": false,
+      "exponent": "3,5 млн",
+      "normalizedPrice": "116 667 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Маяковского, 51",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 51",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_mayakovskogo_51/70926429?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Маяковского",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_mayakovskogo/75491-ASgBAgECA0SSA8YQ5geMUujIE8abCQFF3AcVInVsaXRzYV9tYXlha292c2tvZ28i"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.903061176236434",
+      "lng": "52.31113960088267",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Маяковского, 51"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8117434252,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_343_m_910_et._8117434252?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 34,3 м², 9/10 эт.",
+    "description": "Продается 1-к квартира на ул. Гафиатуллина 52. В шаговой доступности ТЦ «Москва», Лента, рынок, ТЦ «Западный», Инженерный лицей (школа 26), садик и др. Имеется мебель, техника, заезжай и живи. Большой лифт, чистый подъезд. 1 взрослый собственник, вся сумма в договоре. Помощь риэлтора не требуется.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4100000,
+      "wasLowered": false,
+      "exponent": "4,1 млн",
+      "normalizedPrice": "119 534 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Гафиатуллина, 52",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 52",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_gafiatullina_52/92813?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Гафиатуллина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_gafiatullina/16070-ASgBAgECA0SSA8YQ5geMUujIE4z7AQFF3AcVInVsaXRzYV9nYWZpYXR1bGxpbmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90847397",
+      "lng": "52.2598877",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Гафиатуллина, 52"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 7760879279,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_403_m_24_et._7760879279?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 40,3 м², 2/4 эт.",
+    "description": "Продается 2 -х комнатная квартира по ул. Белоглазовп 123, без долгов, обременений, детского вопроса. Квартира находится в центре города, в шаговой доступности магазины, магнит, пятерочка, аптеки, дворец спорта Юбилейный, Хокейная школа. Нефтяник, Футбольный клуб, каскад прудов, детская площадка. Квартира без ремонта, без балкона. Продажа от собственника.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3600000,
+      "wasLowered": false,
+      "exponent": "3,6 млн",
+      "normalizedPrice": "89 330 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Белоглазова, 123",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 123",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_beloglazova_123/1528509?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Белоглазова",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_beloglazova/10511-ASgBAgECA0SSA8YQ5geMUujIE56kAQFF3AcUInVsaXRzYV9iZWxvZ2xhem92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.90390396",
+      "lng": "52.29104996",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, улица Белоглазова, 123"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8365097634,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_60_m_35_et._8365097634?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 60 м², 3/5 эт.",
+    "description": "Продаётся уютная трёхкомнатная квартира на третьем этаже на Нефтяников 35. Из окон открывается красивый вид во двор и на улицу, тихий и спокойный район. Находится в центре города, в транспортной доступности. Рядом парк каскада прудов. В квартире требуется ремонт, но это даёт возможность воплотить свои дизайнерские идеи. Продажа от собственника.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 999 999 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 999 999",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4999999,
+      "wasLowered": false,
+      "exponent": "5 млн",
+      "normalizedPrice": "83 333 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Нефтяников, 35",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 35",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_neftyanikov_35/73215781?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Нефтяников",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_neftyanikov/27330-ASgBAgECA0SSA8YQ5geMUujIE4SrAwFF3AcUInVsaXRzYV9uZWZ0eWFuaWtvdiI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.903024",
+      "lng": "52.282165",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Нефтяников, 35"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8249801152,
+    "microCategoryId": 4929,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/1-k._kvartira_30_m_15_et._8249801152?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "1-к. квартира, 30 м², 1/5 эт.",
+    "description": "Продается уютная однокомнатная квартира с косметическим ремонтом. Дом кирпичный, построен в 1978 году, что обеспечивает хорошую тепло- и звукоизоляцию. Окна выходят на тихую улицу, создавая спокойную атмосферу. В квартире есть газоснабжение, что удобно для приготовления пищи.\n\nКухня оборудована необходимой техникой, включая холодильник и стиральную машину. В комнате установлен вместительный шкаф для хранения вещей. Санузел совмещенный, выполнен в светлых тонах.\n\nПарковка открытая во дворе, что позволяет легко найти место для автомобиля.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2700000,
+      "wasLowered": false,
+      "exponent": "2,7 млн",
+      "normalizedPrice": "90 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Гафиатуллина, 22",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 22",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_gafiatullina_22/70758202?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Гафиатуллина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_gafiatullina/16070-ASgBAgECA0SSA8YQ5geMUujIE4z7AQFF3AcVInVsaXRzYV9nYWZpYXR1bGxpbmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.907137440936296",
+      "lng": "52.27726650272447",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Гафиатуллина, 22"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8227901413,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_416_m_25_et._8227901413?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 41,6 м², 2/5 эт.",
+    "description": "Продается уютная двухкомнатная квартира с косметическим ремонтом в кирпичном доме 2003 года постройки. Комнаты изолированные, что обеспечивает комфорт и приватность. Из окон открывается вид на тихий двор, где расположена закрытая территория и спортивная площадка.\n\nКухня оборудована необходимой техникой,. В квартире есть совмещенный санузел. Лоджия добавляет дополнительное пространство для отдыха или хранения вещей.\n\nПарковка открытая во дворе, что удобно для владельцев автомобилей. Квартира находится на втором этаже пятиэтажного здания без лифта. Недалеко от дома остановка, поликлиника, рынок. Квартира расположена в доме — малосемейка, но коридор только на четыре квартиры. Коридор чистый, соседи спокойные.",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4200000,
+      "wasLowered": false,
+      "exponent": "4,2 млн",
+      "normalizedPrice": "100 962 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Маяковского, 51",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 51",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Маяковского",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_mayakovskogo/75491-ASgBAgECA0SSA8YQ5geMUujIE8abCQFF3AcVInVsaXRzYV9tYXlha292c2tvZ28i"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.902594",
+      "lng": "52.310812",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Маяковского, 51, подъезд 2"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 4146706183,
+    "microCategoryId": 4928,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/2-k._kvartira_448_m_25_et._4146706183?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "2-к. квартира, 44,8 м², 2/5 эт.",
+    "description": "Продаю хорошую, теплую, не угловую, подъезд средний, 2х-комнатную квартиру, 44.8 кв. М, на 2 этаже 5-ти этажного дома.\n\nВ квартире удобная планировка (комнаты «выходят» на обе стороны), требуется ремонт ( сделаете сразу под себя), изолированные комнаты, газовая колонка, раздельный санузел, счетчики новые, железная входная дверь, остекленный балкон, чистый подъезд и сам дом после капитального ремонта, спокойные добрые соседи.\n\nДом находится в хорошем месте: рядом школа №13, д/с «Ивушка» №2г/1, д/с «Соловушка» №58, большая удобная парковка, большая парковая зона со спортивными снарядами прямо перед домом, автобусная остановка в 100 метрах от подъезда, рядом есть все необходимые магазины, также есть детская и спортивная площадки во дворе, двор красиво благоустроен и утопает в зелени.\n\nРядом находятся остановки общественного транспорта, почта, Школа по футболу (Стадион Алнас), два дворца спорта «Юбилейный» и «Спутник», через дом начинается прогулочная зона Каскада прудов, где можно гулять всей семьей до городского озера.\n\nВ собственности более 10 лет.\n\nТоропитесь, пока квартиру Вашей мечты не купил кто-то ещё!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 790 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 790 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3790000,
+      "wasLowered": false,
+      "exponent": "3,79 млн",
+      "normalizedPrice": "84 598 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Советская ул., 209",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 209",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/sovetskaya_ul_209/385301?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "Советская ул.",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/sovetskaya_ulitsa/21254-ASgBAgECA0SSA8YQ5geMUujIE4zMAgFF3AcTInNvdmV0c2theWFfdWxpdHNhIg"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.91223651096373",
+      "lng": "52.29850673149104",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, Советская улица, 209"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  },
+  {
+    "id": 8272888801,
+    "microCategoryId": 4927,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/kvartiry/3-k._kvartira_679_m_19_et._8272888801?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXWVNiYkpEVTM3aVBZNVNTIjt9Se-w8D8AAAA",
+    "title": "3-к. квартира, 67,9 м², 1/9 эт.",
+    "description": "В продаже квартира от собственника Тбанк, кадастр 16:45:010104:2621!\n\nАдрес: м. Р-н Альметьевский, г. П. Город Альметьевск, г Альметьевск, ул Ленина, д. 125, кв. 109.\n\nЭтаж/этажность: 1/9.\n\nОписание квартиры:\n\nОбщая площадь: 67.9[кв. М].\n\nКоличество комнат: 3.\n\nПланировка: Изолированная.\n\nВид из окон: во двор.\n\nНаличие лоджии/балкона: да.\n\nДом по адресу ул. Ленина, д. 125 в Альметьевске расположен в районе с развитой инфраструктурой. Локация находится на пересечении центральной части города и активно развивающихся микрорайонов, что обеспечивает шаговую доступность ко всем ключевым социальным, торговым и развлекательным объектам.\n\nМагазины и Торговые центры.\n\n— Гипер Лента: Крупный круглосуточный гипермаркет находится прямо напротив (ул. Ленина, 132), что закрывает любые потребности в продуктах и бытовых товарах.\n\n— ТЦ «Панорама»: Главный молл города расположен в нескольких минутах ходьбы (ул. Ленина, 100), внутри работают супермаркет «Перекрёсток», магазины одежды, фудкорт и зоны развлечений.\n\n— Специализированные точки: В непосредственной близости работают кондитерский магазин «Сливки» (ул. Ленина, 123в), книжный «Читай-город» (ул. Ленина, 123) и дискаунтер «Чижик».\n\nЗоны отдыха и Спорт.\n\n— Парк «Здоровье»: Современное благоустроенное зеленое пространство с велодорожками, прогулочными зонами и детскими площадками находится практически у дома (ул. Ленина, 121В).\n\n— Парк «Шамсинур»: Пешеходный сквер для семейных прогулок.\n\n— Спортивные объекты: В радиусе комфортной доступности находятся спорткомплекс Пао «Татнефть» и крупный водно-оздоровительный комплекс — бассейн «Мирас».\n\nДетская инфраструктура.\n\n— Детские сады: Совсем рядом работает Центр развития ребенка — детский сад №36 «Волшебный дворец» (ул. Ленина, 131). Чуть дальше по улице расположен детский сад №1 «Бэлэкэч».\n\n— Развлечения: Для детей постарше и малышей поблизости открыты детский игровой центр «Magic City» и крупные магазины детских товаров («Игрушки», «Мобильный Карапуз»).\n\nТранспорт и Дороги.\n\n— Транспортная доступность: Улица Ленина — главная транспортная артерия Альметьевска с выделенными полосами для общественного транспорта и развитой сетью велодорожек.\nУсловия продажи: Ипотека возможна только стороннего банка. Сделка простая письменная форма, подача документов на регистрацию через Мфц. Собственность: в собственности у тбанка.\nДокументы: при необходимости, предоставим Егрн.\nСпособ оплаты: Ипотека возможна только стороннего банка при одобрении объекта либо наличные собственные средства.\nОсобые условия: продажа по договору купли-продажи.\nКонтактная информация:\nВремя для связи: с 9:00 до 18:00.\nЗвоните или пишите в чат!",
+    "category": {
+      "id": 24,
+      "name": "Квартиры",
+      "slug": "kvartiry",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 600 077 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 600 077",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5600077,
+      "wasLowered": false,
+      "exponent": "5,6 млн",
+      "normalizedPrice": "82 475 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ленина, 125",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 125",
+          "link": "https://m.avito.ru/catalog/houses/almetevsk/ul_lenina_125/70988140?context=H4sIAAAAAAAA_wEpANb_YToxOntzOjg6ImZyb21QYWdlIjtzOjEyOiJzZXJwX2FkZHJlc3MiO33ZtZG3KQAAAA"
+        },
+        "streetLink": {
+          "text": "ул. Ленина",
+          "link": "https://m.avito.ru/almetevsk/kvartiry/prodam/vtorichka/street/ulitsa_lenina/4140-ASgBAgECA0SSA8YQ5geMUujIE9hAAUXcBw8idWxpdHNhX2xlbmluYSI"
+        }
+      },
+      "rating": {
+        "type": null,
+        "showChevronEnd": false,
+        "formattedValue": {
+          "text": "1 отзыв",
+          "version": 1,
+          "attributes": {}
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.899229",
+      "lng": "52.264962",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ленина, 125"
+    },
+    "parsed_at": "2026-09-07T15:51:17.167816"
+  }
+]

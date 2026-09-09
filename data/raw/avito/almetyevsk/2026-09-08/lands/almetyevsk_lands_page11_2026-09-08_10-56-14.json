@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 8112600080,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_133_ga_snt_dnp_8112600080?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 1,33 га (СНТ, ДНП)",
+    "description": "Продается земельный участок сельскохозяйственного назначения с возможностью застройки, для сельскохозяйственного производства, площадью 1,33 га, на выезде из мкр. Урсала в сторону Сарманово. Участок расположен вдоль трассы, хорошо просматривается с дороги, имеется съезд. Дорога зимой чиститься. На участке отсутствуют охранные зоны, что позволяет строительство капитальных строений (ангары, хранилище, ферму). Так же идеально подойдет под овощную базу, питомник, продажа сельскохозяйственной продукции, растений, цветов.\nРеальному покупателю будет торг. Возможен обмен.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 590 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 590 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1590000,
+      "wasLowered": false,
+      "exponent": "1,59 млн",
+      "normalizedPrice": "11 955 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "16К-0334"
+    },
+    "coords": {
+      "lat": "54.95981755751569",
+      "lng": "52.43825609779813",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), 16К-0334"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8131503649,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_5_sot._snt_dnp_8131503649?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 5 сот. (СНТ, ДНП)",
+    "description": "Продам участок, один собственник, переспективно развивающийся район. Торг при осмотре.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 099 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 099 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1099000,
+      "wasLowered": false,
+      "exponent": "1,1 млн",
+      "normalizedPrice": "219 800 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое объединение граждан Газовщик, 157"
+    },
+    "coords": {
+      "lat": "54.88864724258502",
+      "lng": "52.3240360998992",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, садоводческое некоммерческое объединение граждан Газовщик, 157"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 2387327275,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._snt_dnp_2387327275?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (СНТ, ДНП)",
+    "description": "Продается земельный участок 600 кв. М. В СО «Буровик„по ул. Тухватуллина, в шаговой доступности до центра города! Участок правильной формы, ровный! Просто Земляной Участок, без Домика! Имеется Справка из Гисогд Министерства Строительства с Основными Видами Разрешённого Использования! Место у участка Хорошее Очень Перспективное, можно для любого Бизнеса, Перечень Указан в Справке из Гисогд! Недалеко от дороги, Недалеко от Участка находится Баня по. Ул. Тухватуллина! Заезд с 2х сторон,2-й ряд! Хорошее Денежное вложение! Документы готовы! Кадастровый номер 16:45:04 01 08:0001. Установлены Границы Участка от ООО „Союз-Земля”! По интересующим вопросам — Звоните! Собственница Участка!",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 400 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 400 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1400000,
+      "wasLowered": false,
+      "exponent": "1,4 млн",
+      "normalizedPrice": "233 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "СТ Буровик-1, 211"
+    },
+    "coords": {
+      "lat": "54.89278793",
+      "lng": "52.32681274",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, СТ Буровик-1, 211"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8260472849,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_87_sot._snt_dnp_8260472849?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 8,7 сот. (СНТ, ДНП)",
+    "description": "Продается земельный учaсток в черте гoрoда в Снт «Нефтeпpoвoдчик» плoщадью 869 квадратных метров.\n\nУчастoк рoвный. Земля плодородная, чернозем. До 2019 года последним в Снт эксплуатировался по назначению. С 1960 высаживались все садовые культуры: овощи и фрукты. На территории участка был построен двухэтажный домик для ведения хозяйства. После сбора урожая в конце 2018 года домик был вскрыт и подожжен ради баловства или хулиганский побуждений.\n\nНа территории участка возможно построить полноценный жилой дом и еще останется место для ведения приусадебного хозяйства.\n\nВ Снт уже построены 5 домов, в 4 уже проживают. На всем протяжении въезда в Снт проложены линии электропередач. До участка 50 — 100 метров.\n\nО районе: данный район будет в будущем активно застраиваться. В 500 метрах находится школа №6. До улицы Геофизической, где расположены магазины: Находка, Добрострой и автосалон Диалог-Авто около километра. Там же и находиться остановка общественного транспорта.\n\nПри въезде в Снт газораспределительный узел. Возможно будущее подключение абонентов.\n\nВсе документы по участку имеются и зарегистрированы.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1100000,
+      "wasLowered": false,
+      "exponent": "1,1 млн",
+      "normalizedPrice": "126 437 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое товарищество Нефтепроводчик, 47"
+    },
+    "coords": {
+      "lat": "54.89463694395143",
+      "lng": "52.362005393705054",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, садоводческое некоммерческое товарищество Нефтепроводчик, 47"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8250508213,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_8250508213?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Продам земельный участок в городе, район Ртс, собственник.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2300000,
+      "wasLowered": false,
+      "exponent": "2,3 млн",
+      "normalizedPrice": "383 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Вахтовая ул., 72"
+    },
+    "coords": {
+      "lat": "54.90113068",
+      "lng": "52.37404633",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Вахтовая улица, 72"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 4357739134,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_116_sot._izhs_4357739134?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 11,6 сот. (ИЖС)",
+    "description": "Продам земельный участок в экологично-чистом районе, близко от города(10 км от г. Альметьевска),11,6 сот. Участок ровный, прямоугольной формы, Документы готовы. Один собственник. Чистая продажа. Кадастровый номер 16:07:180108:552.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "750 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "750 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 750000,
+      "wasLowered": false,
+      "exponent": "750 тыс.",
+      "normalizedPrice": "64 655 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Верхний Акташ"
+    },
+    "coords": {
+      "lat": "54.963026",
+      "lng": "52.152484",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Верхнеакташское сельское поселение, село Верхний Акташ"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 7961138206,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_41_sot._snt_dnp_7961138206?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 4,1 сот. (СНТ, ДНП)",
+    "description": "Продам земельный участок (дача) в садовом обществе «Дорожник», район Дсрк. Участок находится в черте города, за забором частный сектор, жилые дома. Центральная дорога рядом, два заезда к участку. Участок ровный, правильной формы, оформленный, можно строиться. Электричество на участке, 380в, стоим в очереди на газ, также имеется скважина для полива. На участке построен не большой, кирпичный домик с мансардой и пристроенным хоз. Помещением, дом оформлен, есть возможность прописки в нëм. Лучше пишите, на звонки не всегда могу ответить.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 250 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 250 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1250000,
+      "wasLowered": false,
+      "exponent": "1,25 млн",
+      "normalizedPrice": "304 878 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое товарищество Дорожник, 15"
+    },
+    "coords": {
+      "lat": "54.88716567805433",
+      "lng": "52.34945306014242",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, садоводческое товарищество Дорожник, 15"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 7603698857,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_7603698857?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "В продаже участок в очень красивом и тихом месте! Комфортная городская среда района благоустраивается, есть постоянно проживающие хорошие соседи, с электричеством и газом, подключение и доступ обеспечен.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2600000,
+      "wasLowered": false,
+      "exponent": "2,6 млн",
+      "normalizedPrice": "433 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Токарликова, 37"
+    },
+    "coords": {
+      "lat": "54.90386581",
+      "lng": "52.37376785",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Токарликова, 37"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8034826790,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_12_sot._izhs_8034826790?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 12 сот. (ИЖС)",
+    "description": "Продам земельный участок Ижс, в собственности.\n12 соток, ровный, идеально подойдёт для стройки твоего дома мечты.\nОт города Альметьевск 10-15 минут.\nПрекрасный, спокойный, экологически чистый район, для ценителей загородной жизни.\nПиши, звони, съездим посмотрим вместе.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1100000,
+      "wasLowered": false,
+      "exponent": "1,1 млн",
+      "normalizedPrice": "91 667 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Верхняя Мактама"
+    },
+    "coords": {
+      "lat": "54.82695364081937",
+      "lng": "52.36386653121326",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Верхнемактаминское сельское поселение, село Верхняя Мактама"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 7622585076,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_11_sot._izhs_7622585076?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 11 сот. (ИЖС)",
+    "description": "Продам участок под коммерцию ( офис, склад, автосервис). Можно перевести под Ижс.\n\nУлица Загита Гамирова.\n\nНазначение Бытовое Обслуживание.\n\nУдобной прямоугольной формы.\nУдобные подъездные пути. Асфальт до участка.\n\nКадастровый номер.\n16:45:040124:564.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4500000,
+      "wasLowered": false,
+      "exponent": "4,5 млн",
+      "normalizedPrice": "409 091 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое объединение граждан Пожарник"
+    },
+    "coords": {
+      "lat": "54.88679677159347",
+      "lng": "52.33567078569713",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, садоводческое некоммерческое объединение граждан Пожарник"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 2125681139,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_12_sot._izhs_2125681139?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 12 сот. (ИЖС)",
+    "description": "Продам участки Ижс. По 12 соток. Электричество подведено. Газ проведён.\n. Участки ровные. Рядом лес, ручей, пруд. Школа и детский садик в Новоникольске. Очень красивое, живописное место, с очень сильной, положительной энергетикой.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 050 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 050 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1050000,
+      "wasLowered": false,
+      "exponent": "1,05 млн",
+      "normalizedPrice": "87 500 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Д. Болгар-2, Солнечная ул."
+    },
+    "coords": {
+      "lat": "55.05750384545122",
+      "lng": "52.38058390066429",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Старомихайловское сельское поселение, деревня Болгар-2, Солнечная улица"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 4620359524,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_8_sot._izhs_4620359524?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 8 сот. (ИЖС)",
+    "description": "Продается земельный участок 8,39 соток в с. Новое Каширово, ул. Джалиля, участок 35В (кадастровый номер: 16:07:050119:37).\n\nУчасток расположен в живописном и перспективном месте с прекрасным видом на окружающую природу. Удобное местоположение — рядом проходит дорога, что значительно упрощает подведение всех необходимых коммуникаций.\n\nОтличный вариант для строительства жилого дома или дачи. Тихое, спокойное место, чистый воздух и хорошие подъездные пути.\n\nПродажа от собственника.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "450 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "450 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 450000,
+      "wasLowered": false,
+      "exponent": "450 тыс.",
+      "normalizedPrice": "56 250 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Каширово"
+    },
+    "coords": {
+      "lat": "54.96254257994583",
+      "lng": "52.5363249176075",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, село Новое Каширово"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8172049236,
+    "microCategoryId": 3770,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_8_sot._promnaznacheniya_8172049236?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 8 сот. (промназначения)",
+    "description": "Продаются земельные участки под бизнес. Размер возможно выделить под желание покупатели, от 8 сот и больше. Удобное расположение территории на первой линии улицы Шоссейная. Свет, газ и вода. Собственник, обременений никаких нет, можно выходить сразу на сделку.\nПо всем вопросам можете писать на Авито либо позвонить.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5600000,
+      "wasLowered": false,
+      "exponent": "5,6 млн",
+      "normalizedPrice": "700 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Шоссейная ул."
+    },
+    "coords": {
+      "lat": "54.88593103294203",
+      "lng": "52.34420451124289",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Шоссейная улица"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8343417868,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_10_sot._izhs_8343417868?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 10 сот. (ИЖС)",
+    "description": "Продам участок с банным комплексом, 10 соток.\nУчасток ровной правильной формы, по периметру готовое основание под забор, живописный вид на горы.\nГаз и электричество есть.\nНа участке расположен банный, включающий Хоз блок, погреб, мастерскую, баню, летнюю кухню, помещения свободного назначения.\nРазмер комплекса 25/5 метров.\nМатериал блок и облицовочный кирпич.\nОтопление есть.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4000000,
+      "wasLowered": true,
+      "exponent": "4 млн",
+      "normalizedPrice": "400 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Надырово, ул. Кирова"
+    },
+    "coords": {
+      "lat": "54.891335787045065",
+      "lng": "52.47366195071676",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, село Новое Надырово, улица Кирова"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8024637781,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_69_sot._snt_dnp_8024637781?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6,9 сот. (СНТ, ДНП)",
+    "description": "Продается участок в Снт Алнас, расположен на ровной местности, недалеко от въезда в сам Снт, возле леса. Участок самый удачный по месту расположения(ровный, выезд рядом, лес рядом). Вокруг практически все соседи построились! Собственник, без риэлтора!",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 900000,
+      "wasLowered": false,
+      "exponent": "900 тыс.",
+      "normalizedPrice": "130 435 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое товарищество Алнас"
+    },
+    "coords": {
+      "lat": "54.96459579",
+      "lng": "52.47660446",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Новокашировское сельское поселение, садоводческое некоммерческое товарищество Алнас"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 1092881646,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_1092881646?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Продается участок под Ижс общей площадью 6 сот(по факту 10 сот) в п. Нахаловка по ул. Пригородная д.1 «В». Асфальт до участка. Кадастровый номер 16:45:000000:2281. По участку проходит ручей. Собственник, без обременений.\nРазрешения на строительство Нет. Участок в красной линии это основание низкой цены участка. Просьба звонить по делу. Без торга.\nP. S. Можно построить дом, электричество подключат, газ нет.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2000000,
+      "wasLowered": false,
+      "exponent": "2 млн",
+      "normalizedPrice": "333 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пригородная ул."
+    },
+    "coords": {
+      "lat": "54.876763",
+      "lng": "52.26498",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, Пригородная улица"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8015268543,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_8015268543?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Продаётся ровный, сухой участок, под Ижс по адресу: ул. Салиха Сайдашева 83, расположен в Ртс (за бывшим магазином Эссен), кадастровый номер 16:45:000000:989. Участок выдавался многодетной семье, все документы к продаже оформлены и готовы. Транспортная развязка и остановки рядом. Эл. Энергия и газ проходит по улице, можно завести на участок. Подъездные пути обустраивают. Продаёт собственник (не риэлтор).",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2200000,
+      "wasLowered": false,
+      "exponent": "2,2 млн",
+      "normalizedPrice": "366 667 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Салиха Сайдашева, 83"
+    },
+    "coords": {
+      "lat": "54.90044022",
+      "lng": "52.37565994",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Салиха Сайдашева, 83"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 1033917508,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_10_sot._snt_dnp_1033917508?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 10 сот. (СНТ, ДНП)",
+    "description": "Кадастровый номер 16:07:100002:1910. Продам участок в живописном районе г. Альметьевска в 5 км от центра города, рядом с лагерем Юность. Пос. Рангаут. Участок ровный, сухой, #1910 находиться в самом удобном месте, красивый и богатый ландшафт где в летнее время можно собирать ягоды, грибы, недалеко имеется речка где можно порыбачить.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2500000,
+      "wasLowered": false,
+      "exponent": "2,5 млн",
+      "normalizedPrice": "250 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Калейкино, ДНП Рангаут"
+    },
+    "coords": {
+      "lat": "54.94837429331028",
+      "lng": "52.247133186721705",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Калейкинское сельское поселение, село Калейкино, ДНП Рангаут"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8105788785,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_8105788785?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Угловой участок 6 соток Ижс — простор и удобство.\n\nРедкое расположение — угловой участок 6 соток. Ижс.\nРовный, прямоугольный, сухой.\n\nВ чём плюс:\nОдин собственник.\nПодали на разрешение на строительство.\nДва выезда на разные улицы.\nДом можно поставить хоть к центру, хоть к краю — места хватит на всё: дом, баню, сад, парковку.\n\nЧто по коммуникациям:\nПроложены по улице столбы электроэнергии.\nДорога засыпана щебенкой.\nТихий жилой район.\nДокументы готовы к сделке.\n\nЦена: 2 150 000руб.\n\nПриезжайте — увидите сами. Звоните.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 150 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 150 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2150000,
+      "wasLowered": false,
+      "exponent": "2,15 млн",
+      "normalizedPrice": "358 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шагена Донгаряна"
+    },
+    "coords": {
+      "lat": "54.866207947110645",
+      "lng": "52.44770280801205",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Шагена Донгаряна"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 7991015710,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_66_sot._izhs_7991015710?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6,6 сот. (ИЖС)",
+    "description": "Продаётся участок 6,6 соток в центре города — от собственника! Отличное место под бизнес или инвестиции.\n\nПредлагается к продаже земельный участок площадью 6,6 сотки в самом центре города. Удобное расположение, высокий пешеходный и автомобильный трафик — идеальное место для коммерческого использования.\n\nНа участке расположен старый дом (под реконструкцию или снос).\n\nПреимущества:\n\n* Продажа от собственника.\n* Центральная локация.\n* Площадь участка — 6,6 соток.\n* Подъездные пути с трёх сторон.\n* Развитая инфраструктура.\n* Подходит под строительство магазина, офиса, кафе, салона красоты или другого коммерческого объекта.\n* Возможность подключения всех коммуникаций.\n\nОтличный вариант для развития бизнеса или выгодного вложения средств.\n\nЗвоните для получения подробной информации и организации просмотра.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12000000,
+      "wasLowered": false,
+      "exponent": "12 млн",
+      "normalizedPrice": "1 818 182 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Радищева, 26"
+    },
+    "coords": {
+      "lat": "54.89548111",
+      "lng": "52.30438995",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Радищева, 26"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 2214461516,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_178_sot._izhs_2214461516?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 17,8 сот. (ИЖС)",
+    "description": "Участок в продаже только потому, что уезжаю. С документами все в порядке. Видовой участок земли в Нолинке.\nВсе коммуникации рядом. Сейчас самая выгодная цена. На границе рядом планируется Фап ( фельдшерский пункт) следовательно и дороги и освещение.\nКрасивый вид с любой точки участка. Вокруг рослые деревья, яблони, калина, соседи ниже застраиваются, участок на небольшом склоне, освещён солнцем.\nКаждый градус южного склона равен 100 км южнее — то есть у вас всегда будет теплее, чем у других, лучше будут расти теплолюбивые растения.\nУчасток расположен выше всех соседей, что несомненный плюс.\nОтлично дренируется естественным образом.\nИз окон вашего дома будет потрясающий вид на все стороны.\nОтлично, чтобы растить лаванду, абрикосы, виноград и другие теплолюбивые растения.\nПо периметру участка растительность- защищает от ветра, что важно, если хотите красивый сад.\nУчасток не окружён соседями (только снизу) — идеально, чтобы чувствовать свободу и уединение загородной жизни.\nУчасток расчищен. Расположен на достаточном удалении от дороги, нет шума машин.\nДокументы готовы к сделке.\nГраницы определены.\nХорошая плодородная земля.\nГотов к стройке и планировке.\nОдин взрослый собственник.\nСтатус Лпх — личное подсобное хозяйство — дает возможность более широкого использования земли, чем просто Ижс, разрешает строительство любого дома — дачи, либо капитального, и возможность вести фермерское хозяйство при желании, на законном основании.\nТорг рассмотрю.\nЗвоните. Просмотр в любой день!",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 750 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 750 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1750000,
+      "wasLowered": false,
+      "exponent": "1,75 млн",
+      "normalizedPrice": "98 315 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Д. Нолинка"
+    },
+    "coords": {
+      "lat": "54.9751089060286",
+      "lng": "52.2158248463379",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, деревня Нолинка"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8105335977,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_473_sot._izhs_8105335977?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 47,3 сот. (ИЖС)",
+    "description": "Продам земельный участок в селе Чупаево ул. Колхозная 6, без долгов и обременений, один взрослый собственник, с материалом и с жилым домом, плодородная почва, хорошее красивое место с живописным видом. На участке есть деревенский туалет, летний душ, посажен чеснок. В доме есть отопление, газ и свет, забор сделан на 70%, на забор вложено 500 тыс рублей.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1200000,
+      "wasLowered": false,
+      "exponent": "1,2 млн",
+      "normalizedPrice": "25 370 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Чупаево, Колхозная ул., 6"
+    },
+    "coords": {
+      "lat": "54.79724054233349",
+      "lng": "52.13832016537723",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Маметьевское сельское поселение, село Чупаево, Колхозная улица, 6"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8219374557,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_54_sot._izhs_8219374557?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 54 сот. (ИЖС)",
+    "description": "Собственник.\n\nПродам земельный участок 5471,74 кв. М (кадастровый номер 16:07:230101:13).\n\n1 взрослый собственник. Без обременений.\n\nРасположено вдоль реки Лесной Зай.\n\nВ 20 км. От г. Альметьевск.\n\nИз социальной инфраструктуры в поселении есть школа, детский сад, дом культуры, библиотека, магазины, Озон, WB.\n\nНа территории участка есть дом 43,3 кв. М. (кадастровый номер 16:07:230101:13:50).\n\nДом под снос. Свет, газ.\n\nУчасток расположен на центральной улице.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2500000,
+      "wasLowered": false,
+      "exponent": "2,5 млн",
+      "normalizedPrice": "46 296 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новоникольск, Центральная ул., 18"
+    },
+    "coords": {
+      "lat": "55.05411061046488",
+      "lng": "52.33458570341634",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, село Новоникольск, Центральная улица, 18"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8089964567,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_34_sot._snt_dnp_8089964567?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 3,4 сот. (СНТ, ДНП)",
+    "description": "Продаются участок снт «энергетик» уч20 под строительство.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "700 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "700 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 700000,
+      "wasLowered": false,
+      "exponent": "700 тыс.",
+      "normalizedPrice": "205 882 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Республика Татарстан (Татарстан), Альметьевск"
+    },
+    "coords": {
+      "lat": "54.89560099285519",
+      "lng": "52.35338583416083",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 838629685,
+    "microCategoryId": 3771,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_51_ga_snt_dnp_838629685?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 5,1 га (СНТ, ДНП)",
+    "description": "Продам или сдам в аренду. Цена снижена только до потепления.\n\nУчасток — 5.1 га. Очень живописное место. Ровный участок. Участок с двух сторон Г- образно огибает речка и деревья. Одна сторона полностью примыкает к трассе. Вдоль четвёртой стороны полностью проходит хорошая шоссейная дорога. Через дорогу(трассу), в шаговой доступности, на склоне горы течёт родник. Так же не далеко, на склоне горы, располагается большая частная козья ферма. Через речку находиться огромное фермерское хозяйство с клубничной плантацией. Хорошее место под глэмпинг, базу отдыха.\n\nЭлектричество проходит прямо по участку. Земля в собственности. Документы все готовы. Могу сдать в аренду. Я собственник(не агентство). Торг возможен.\n\nНачиная с 1 марта 2022 года, по зновому закону, появилась возможность построить жилой дом на земле сельхозназначения. Она подойдет крестьянским (фермерским) хозяйствам. Кфх представляет собой объединение родственников, которые вместе производят сельхозпродукцию на общем участке земли. Кфх разрешается построить жилье на территории, которую используют для хоздеятельности.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 550 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 550 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3550000,
+      "wasLowered": false,
+      "exponent": "3,55 млн",
+      "normalizedPrice": "6 959 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "16К-0083"
+    },
+    "coords": {
+      "lat": "54.906587011501415",
+      "lng": "52.48724909580619",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, 16К-0083"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8028001181,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_8028001181?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Продам земельный участок. Собственник. Микрорайон М4. Поз.419, (ул. Шамиля Надырова, з/у 35). Участок не угловой, ровный. Сзади участка и с правой стороны уже есть соседи. Документы на продажу готовы.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 090 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 090 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2090000,
+      "wasLowered": false,
+      "exponent": "2,09 млн",
+      "normalizedPrice": "348 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Шамиля Надырова, 35"
+    },
+    "coords": {
+      "lat": "54.864494447201935",
+      "lng": "52.44933192485465",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Шамиля Надырова, 35"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 8189464125,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_6_sot._izhs_8189464125?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 6 сот. (ИЖС)",
+    "description": "Продается ровный участок с фундаментом.\nУчасток 20х30.\nФундамент монолитный 11,50х12.\nГаз и электричество рядом с участком.\nКадастровый номер 16:45:020311:1118.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3500000,
+      "wasLowered": false,
+      "exponent": "3,5 млн",
+      "normalizedPrice": "583 333 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Кленовая ул., 29"
+    },
+    "coords": {
+      "lat": "54.92699814",
+      "lng": "52.38937759",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Кленовая улица, 29"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 7757691718,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_10_sot._izhs_7757691718?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 10 сот. (ИЖС)",
+    "description": "Продаётся шикарный участок правильной формы, в красивом живописном месте, рядом лес, речка мактаминка, на участке находится домик 40 кв. Можно обустроить под сауну, свет есть, земля плодородная, растет малина, смородина, на данный момент идет уборка от старых деревьев, на последнем фото другого участка. Цена ЗА Срочность!",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1500000,
+      "wasLowered": false,
+      "exponent": "1,5 млн",
+      "normalizedPrice": "150 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Верхняя Мактама, ул. Мусы Джалиля, 120"
+    },
+    "coords": {
+      "lat": "54.8202858",
+      "lng": "52.34924316",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Верхнемактаминское сельское поселение, село Верхняя Мактама, улица Мусы Джалиля, 120"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 4173473078,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_10_sot._izhs_4173473078?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 10 сот. (ИЖС)",
+    "description": "Продам ровный земельный участок (под Ижс) 10 соток. Адрес с. Кульшарипово, ул. Речная 46 Все коммуникации доступны. Документы готовы к продаже. Собственник.",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3300000,
+      "wasLowered": false,
+      "exponent": "3,3 млн",
+      "normalizedPrice": "330 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Кульшарипово"
+    },
+    "coords": {
+      "lat": "54.890531015059196",
+      "lng": "52.1873119351324",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Кульшариповское сельское поселение, село Кульшарипово"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  },
+  {
+    "id": 4149033656,
+    "microCategoryId": 3772,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/zemelnye_uchastki/uchastok_15_sot._izhs_4149033656?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJRcGtibTBYSlNmOUk3SUNoIjt9aWUt3D8AAAA",
+    "title": "Участок 15 сот. (ИЖС)",
+    "description": "Продаю участок земли Ижс, собственник! Торг уместен!",
+    "category": {
+      "id": 26,
+      "name": "Земельные участки",
+      "slug": "zemelnye_uchastki",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 600000,
+      "wasLowered": false,
+      "exponent": "600 тыс.",
+      "normalizedPrice": "40 000 ₽ за сотку"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Бишмунча"
+    },
+    "coords": {
+      "lat": "54.855356",
+      "lng": "52.595515",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, село Бишмунча"
+    },
+    "parsed_at": "2026-09-08T10:56:14.418472"
+  }
+]

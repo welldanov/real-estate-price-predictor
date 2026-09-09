@@ -1,0 +1,1792 @@
+[
+  {
+    "id": 7604562259,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_2195_m_na_uchastke_6_sot._7604562259?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 219,5 м² на участке 6 сот.",
+    "description": "Продам кирпичный двухэтажный дом, общая площадь 219,5кв. М.\nУчасток 6 соток.\nДом строили для себя, качественно и с любовью.\n1 этаж: зал совмещен с кухней, комната, санузел, гараж.\n2 этаж: балкон, две большие комнаты, которые можно перепланировать под себя.\n+ 1 комната между 1 и 2 этажом.\nМатериалы стен: кирпич, пенопласт, керамзитобетонные блоки, минвата.\nКрыша: металлочерепица, утепление в 3 слоя.\nТеплые полы, кабеля под свет и розетки, отопление выведены.\nГаз выведен к участку.\n241 72.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 999 999 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 999 999",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8999999,
+      "wasLowered": false,
+      "exponent": "9 млн",
+      "normalizedPrice": "41 002 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Материнской Славы, 7",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 7",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Материнской Славы",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_materinskoy_slavy/620347-ASgBAgECAkSUA9AQ6MgT9txLAUW6GBoidWxpdHNhX21hdGVyaW5za295X3NsYXZ5Ig"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.86913565428",
+      "lng": "52.44152506061245",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Материнской Славы, 7"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3002721987,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_120_m_na_uchastke_6_sot._3002721987?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 120 м² на участке 6 сот.",
+    "description": "По семейной ипотеке не проходит Продается новый дом 120кв. М. От собственника. С мебелью и ремонтом заезжай и живи. Уютный и очень теплый с хорошей планировкой. В доме три спальни, зал, кухня, туалет, ванная комната. Спереди дома постелен асфальт для парковки автомобиля 7*20. Вода центральная, канализация центральная, электричество, газ интернет телевидение летай. По периметру установлены новые заборы, залито бетоном пред домовая территория и отмостки. Участок правильной формы и угловой. Дом выполнен из качественных материалов. На весь этап строительства есть фото видео отчет. Все вопросы по телефону.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13500000,
+      "wasLowered": false,
+      "exponent": "13,5 млн",
+      "normalizedPrice": "112 500 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. железнодорожной станции Калейкино, Садовая ул.",
+      "addressLinks": {
+        "houseLink": {
+          "text": " Садовая ул.",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "пос. железнодорожной станции Калейкино",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/sadovaya_ulitsa/255068-ASgBAgECAkSUA9AQ6MgTuJEfAUW6GBEic2Fkb3ZheWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.916643931770395",
+      "lng": "52.146989356768",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Лесно-Калейкинское сельское поселение, посёлок железнодорожной станции Калейкино, Садовая улица"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8082452420,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_150_m_na_uchastke_10_sot._8082452420?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 150 м² на участке 10 сот.",
+    "description": "Продается просторный дом из бруса 150 м² с газом и баней в Сосновке (Новоникольское с/п).\n\nПричина продажи: переезд.\n\nДом: 4 комнаты, 2 этажа. Снаружи утеплен и оштукатурен, внутри — гипсокартон. На первом этаже: гостиная, кухня с печью, ванная, прихожая, холодная терраса. Второй этаж: две спальни, кабинет, гардеробная, холл. Лестница из качественного дерева. Котел комбинированный — газ + электричество.\n\nУчасток 10 соток: баня (на дровах), теплица, гараж. Один собственник.\n\nИнфраструктура поселка: школа, детский сад, почта, клуб, библиотека, Фап, два магазина, доставка Озон и Вайлдберриз, общественный транспорт дважды в день.\n\nДом юр чистый. Чистая продажа.\n\nСобственник.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "12 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "12 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 12800000,
+      "wasLowered": false,
+      "exponent": "12,8 млн",
+      "normalizedPrice": "85 333 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. Сосновка, Московская ул., 3",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 3",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "пос. Сосновка, Московская ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/moskovskaya_ulitsa/660328-ASgBAgECAkSUA9AQ6MgT0M1QAUW6GBQibW9za292c2theWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "55.04429245",
+      "lng": "52.3708725",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Новоникольское сельское поселение, посёлок Сосновка, Московская улица, 3"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7953153500,
+    "microCategoryId": 3808,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dacha_40_m_na_uchastke_62_sot._7953153500?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дача 40 м² на участке 6,2 сот.",
+    "description": "Торг! Продам ухоженный дачный участок, дом-баня, мансарда, летняя кухня, курятник, многолетние плодово-ягодные насаждения, забор, новая скважина, две теплицы, хозяйственный блок, электричество, земля и дом оформлены. Показ в любое время.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 400 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 400 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1400000,
+      "wasLowered": false,
+      "exponent": "1,4 млн",
+      "normalizedPrice": "35 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "СНОГ Берёзка, 218"
+    },
+    "coords": {
+      "lat": "54.94334091956068",
+      "lng": "52.20898413860871",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Верхнеакташское сельское поселение, СНОГ Берёзка, 218"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8288990128,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_250_m_na_uchastke_8_sot._8288990128?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 250 м² на участке 8 сот.",
+    "description": "Продается капитальный дом для большой семьи в Старом Альметьевске. Участок 8 соток, дом 250 кв. М. Один взрослый собственник, документы готовы.\n\nФундамент: комбинированный (фундаментные блоки + буроналивные сваи).\n\nСтены: качественный пенобетон (заводского изготовления г. Самара) + утепление под штукатуркой.\n\nПерекрытия этажей — плитами перекрытия.\nВнутренние стены — красный кирпич.\n\nОтопление: умное регулируемое (газ). Дом очень теплый, коммунальные платежи невысокие. В апреле 2026г. Проведено полное ТО отопительной системы: промывка всех труб, включая теплые полы, замена распределительной гребенки и насоса — система работает как новая.\n\nПланировка:\n\n1 этаж (высота потолков 3.05 м): Единое пространство из просторной гостиной с современным камином и кухни-столовой; санузел, топочная-постирочная с хоз. Ванной (очень удобно), прихожая со встроенным шкафом, гараж.\n\n2 этаж (2.70 м): 4 изолированные спальни, большая гардеробная со встроенной мебелью, просторная ванная комната с окном (есть и ванна, и душевая кабина).\nКосметический ремонт жилых комнат придаст Вашему дому индивидуальность.\n\nДвор и постройки:\n\nБаня «с изюминкой»- новая, с дизайнерским ремонтом. Дровяная печь, водяные теплые полы (подключены к отоплению дома), теплая лавка в мойке, отдельный санузел с горячей водой.\n\nЗона отдыха: Благоустроенная беседка с мангалом (подведена х/г вода).\n\nУчасток ухоженный, зеленый, есть плодоносящие деревья (яблони, груша, слива, вишня). Цветущие многолетние кустарники. Все дворовые дорожки и отмостка вымощены брусчаткой. Для удобства есть второй автомобильный въезд с площадкой.\n\nКоммуникации и инфраструктура:\n\nГаз, свет, вода (центральное водоснабжение), канализация (септик трехсекционный).\n\nПроведен интернет (оптоволокно), в доме Wi-fi, подключена Нтв-тарелка.\n\nАвтоматические въездные и гаражные ворота.\n\nРядом (в шаговой доступности) остановка троллейбуса, магазин «Пятерочка».\n\nВажно для семьи с детьми: территориальное закрепление за Лицеем №1 им. М. К. Тагирова (Школа №1). В пешей доступности частный детский сад «Кояш».\n\nДорога к дому зимой регулярно чистится грейдером.\n\nБонус: оставим в доме встроенную кухню, большой шкаф в прихожей, встроенную гардеробную на 2 этаже, все люстры, гардины и шторы.\nВ гараже и сарае останутся металлические стеллажи.\n\nДом в городе — это близость удобств цивилизации, хорошие дороги и тротуары, отсутствие комаров. При этом окружение природой, вечера у костровища, красивые рассветы и пение птиц.\n\nРазумный торг возможен при осмотре. Звоните, покажу дом в удобное время!",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "18 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "18 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 18300000,
+      "wasLowered": false,
+      "exponent": "18,3 млн",
+      "normalizedPrice": "73 200 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Станичная ул., 4А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 4А",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "Станичная ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/stanichnaya_ulitsa/188824-ASgBAgECAkSUA9AQ6MgTsIYXAUW6GBQic3RhbmljaG5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.904095",
+      "lng": "52.352144",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Станичная улица, 4А"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8165107004,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_75_m_na_uchastke_10_sot._8165107004?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 75 м² на участке 10 сот.",
+    "description": "Продам дом от собственника бревно, вода в доме, есть баня, гараж, надворные постройки. Участок 12 соток. Удобства на улице, один собственник. Обмен на однокомнатную квартиру.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3900000,
+      "wasLowered": false,
+      "exponent": "3,9 млн",
+      "normalizedPrice": "52 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Тихоновка, ул. Маяковского, 54",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 54",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Тихоновка, ул. Маяковского",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_mayakovskogo/75491-ASgBAgECAkSUA9AQ6MgTxpsJAUW6GBUidWxpdHNhX21heWFrb3Zza29nbyI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.886460995669495",
+      "lng": "52.39992147886352",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, муниципальное образование Нижняя Мактама, село Тихоновка, улица Маяковского, 54"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8325780808,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_166_m_na_uchastke_65_sot._8325780808?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 166 м² на участке 6,5 сот.",
+    "description": "Абсолютно новый, ультрасовременный дом 167 м² в престижном районе Альметьевска!\nДом построен в 2026 году по индивидуальному архитектурному проекту (есть визуализация комнат). Расположен в уникальном месте — прямо у полилингвальной гимназии «Адымнар». Идеальный вариант для семьи с детьми!\n\nГлавные Преимущества Дома:\nМастер-спальня — приватная зона для родителей со своим санузлом и гардеробной.\nОтапливаемый гараж — с прямым выходом в дом и готовой зарядкой для электромобиля.\nКухня-гостиная — огромная, светлая, для главных семейных вечеров.\n\nВсего в доме: 4 комнаты, 2 санузла, гардеробные, отдельная прачечная.\nУютная терраса — для отдыха на свежем воздухе с удобным выходом из кухни.\n\nКонструктив И Инженерия:\nСтены из газоблока + премиальный утеплитель (дом очень теплый).\nСтильный фасад: декоративная штукатурка и вставки из декоративного камня.\nКровля — мягкая (абсолютно бесшумная в дождь).\nВсе Коммуникации Центральные: водоснабжение и канализация! Газ и электричество заведены.\nОтопление — комфортные теплые полы по всему периметру.\n\nУчасток И Безопасность:\nКатегория земли — Ижс.\nУчасток полностью сухой благодаря профессиональной дренажной системе.\nЗабор по всему периметру на мощном монолитном фундаменте.\nУстановлены современные откатные ворота.\nБольшая парковка перед домом на 4 автомобиля.\nПо периметру видеонаблюдение.\n\nИнфраструктура:\nВсе в шаговой доступности: школа «Адымнар», спорткомплекс «Мирас», детские сады, магазины, кафе и остановки общественного транспорта. Отличные подъездные пути круглый год.\n\nУсловия Сделки И Обмен:\nОдин взрослый собственник, документы полностью готовы к чистой продаже.\nРассмотрим обмен на жилую или коммерческую недвижимость в городах: Альметьевск, Казань, Москва, Санкт-Петербург, Сочи.\n\nЗвоните! Оперативно организуем показ в удобное для вас время.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "19 950 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "19 950 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 19950000,
+      "wasLowered": false,
+      "exponent": "19,95 млн",
+      "normalizedPrice": "120 181 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Назипа Зиатдинова, 11",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 11",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Назипа Зиатдинова",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_nazipa_ziatdinova/1151918-ASgBAgECAkSUA9AQ6MgT3M6MAQFFuhgaInVsaXRzYV9uYXppcGFfemlhdGRpbm92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.893430869046746",
+      "lng": "52.26317602521808",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Назипа Зиатдинова, 11"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3242493333,
+    "microCategoryId": 3810,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/taunhaus_765_m_na_uchastke_45_sot._3242493333?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Таунхаус 76,5 м² на участке 4,5 сот.",
+    "description": "Продам квартиру в доме на несколько семей, общей площадью 76,5 м2, с земельным участком 4,5 сот., с индивидуальным отоплением, (во всех комнатах теплые полы и радиаторы отопления), сделан ремонт. Система отопления работает по датчику температуры воздуха, с большими настройками по своему усмотрению, настройками на каждый день и возможностью регулировки и просмотра температуры с телефона, находясь за пределами дома, через интернет. Стоимость всех коммунальных платежей зимой не превышают 4т. Р. Дом огорожен забором, имеет общий закрытый двор и свои отдельно отведенные участки. На участке имеется теплица 4х4, старенькая, но функционирующая баня, хозяйственный сарай, гараж 5х7 с выездом на асфальтированную дорогу. До города 5 минут на машине, ходит городской транспорт согласно расписанию, детей в школу возит школьный автобус.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7300000,
+      "wasLowered": false,
+      "exponent": "7,3 млн",
+      "normalizedPrice": "95 425 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Грузинская ул., 14",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 14",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "Грузинская ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/gruzinskaya_ulitsa/243291-ASgBAgECAkSUA9AQ6MgTttkdAUW6GBQiZ3J1emluc2theWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.86526920769801",
+      "lng": "52.27048234997366",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, Грузинская улица, 14"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 4261058602,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_270_m_na_uchastke_12_sot._4261058602?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 270 м² на участке 12 сот.",
+    "description": "Продается дом в предчистовой отделке,2 этажа + полноценный подвал,2 сан узла, остается только поклеить обои, уложить напольное покрытие и натянуть натяжные потолки. По всему дому теплый пол, дополнительно радиаторы.\nИз коммуникаций; скважина, газ, канализация (септик), электричество в доме.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10000000,
+      "wasLowered": false,
+      "exponent": "10 млн",
+      "normalizedPrice": "37 037 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Верхняя Мактама, ул. С. Галиева",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ул. С. Галиева",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Верхняя Мактама",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_s._galieva/886433-ASgBAgECAkSUA9AQ6MgTwppsAUW6GBMidWxpdHNhX3MuX2dhbGlldmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.83443580327533",
+      "lng": "52.361087377998984",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Верхнемактаминское сельское поселение, село Верхняя Мактама, улица С. Галиева"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8319673213,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_81_m_na_uchastke_148_sot._8319673213?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 81 м² на участке 14,8 сот.",
+    "description": "Продажа от собственника торг.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 950 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 950 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7950000,
+      "wasLowered": false,
+      "exponent": "7,95 млн",
+      "normalizedPrice": "98 148 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое товарищество Алнас, 93"
+    },
+    "coords": {
+      "lat": "54.96532977583695",
+      "lng": "52.469372193656625",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Новокашировское сельское поселение, садоводческое некоммерческое товарищество Алнас, 93"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3825546315,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_83_m_na_uchastke_6_sot._3825546315?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 83 м² на участке 6 сот.",
+    "description": "Домохозяйство на участке 6,07 соток.\nКирпичный одноэтажный уютный т очень светлый дом с удивительно легкой, спокойной аурой, не каких посторонних запахов.\nОкна пластиковые, крыша профнастил.\nГостиная, 2 спальни, кухня, санузел.\nСовмещенный с котельной, веранда, тамбур. Чисто, аккуратно, но требуется евроремонт. Вода с собственного колодца, центрального водоснабжения нет.\nПодключены 2 сети телевидения.\nБаня деревянная, отопливается газом. Остальные все строения из кирпича. Есть помещение для содержания птиц, кладовка хозяйственного инвентаря. Крытый двор( гараж в гараже со смотровой канавой, при желании можно открыть мастерскую),3 сухих погреба ( никогда не затопливало талыми водами), теплица.\nВсе постройки на западной стороне участка. Огород просторный, на солнечной стороне.\nЕсть возможность перепланировки, строительства мансарды и пристроя второй квартиры, ещё одного дома.\nСоседи все пожилые люди, тишина и покой.\nОстановки автобуса и троллейбуса рядом. До школы 4 и 6 рукой подать, детский сад, продуктовые магазины- через 2 улицы, далеко не надо ходить.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "6 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "6 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 6500000,
+      "wasLowered": false,
+      "exponent": "6,5 млн",
+      "normalizedPrice": "78 313 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н РТС, Трудовая ул.",
+      "addressLinks": {
+        "houseLink": {
+          "text": " Трудовая ул.",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "мкр-н РТС",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/trudovaya_ulitsa/685569-ASgBAgECAkSUA9AQ6MgTgthTAUW6GBIidHJ1ZG92YXlhX3VsaXRzYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.8989563",
+      "lng": "52.35906982",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, микрорайон РТС, Трудовая улица"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8374991553,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_84_m_na_uchastke_149_sot._8374991553?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 84 м² на участке 14,9 сот.",
+    "description": "Продается свежий дом 2022 года постройки в Тихоновке. Полностью благоустроен, заведены все коммуникации, отопление — газовое.\n\nКоротко О Доме:\nПланировка: Кухня-гостиная, 2 спальни, совмещенный санузел (ванна + душевая), котельная.\nРемонт: Хороший, светлый, современный.\nЧто остается: Кухонный гарнитур со всей техникой (включая посудомойку), диван, тумбы под ТВ, стиральная машина. В одной спальне — полный гарнитур (кровать с подъемным механизмом, шкаф, туалетный столик, тумбы), во второй — шкаф и комод.\n\nДвор И Участок:\nУчасток 15 соток: Огромная территория. Можно построить баню, гараж или еще один дом.\nБлагоустройство: Во дворе брусчатка и навес для авто. Автоматические откатные ворота, домофон.\nПарковка: Перед воротами большая асфальтированная площадка на 5+ машин.\nИнфраструктура:\nРядом находится школа, автобусная остановка, продуктовые магазины и пункты выдачи.\nРайон обжитый, без проблем работают любые доставки магазинов.\n\nПодходит под Сельскую ипотеку для отдельных категорий граждан. Реальному покупателю — разумный торг!\n\nДокументы готовы, один взрослый собственник, быстрый выход на сделку.\nЗвоните или пишите прямо сейчас, чтобы договориться о просмотре!\nСобственник, не риэлтор.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "14 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "14 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 14500000,
+      "wasLowered": false,
+      "exponent": "14,5 млн",
+      "normalizedPrice": "172 619 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Тихоновка, Луговая ул., 46",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 46",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Тихоновка, Луговая ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/lugovaya_ulitsa/75504-ASgBAgECAkSUA9AQ6MgT4JsJAUW6GBEibHVnb3ZheWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.88401794",
+      "lng": "52.39670944",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, муниципальное образование Нижняя Мактама, село Тихоновка, Луговая улица, 46"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7984261861,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_183_m_na_uchastke_11_sot._7984261861?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 183 м² на участке 11 сот.",
+    "description": "Срочная Продажа! Дом находится в нескольких метрах от озера, а вокруг хвойный лес. Продажа с целью переезда, я собственник. На участке банный комплекс с бассейном, гараж. Чистая продажа. Остальные вопросы по телефону.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15900000,
+      "wasLowered": false,
+      "exponent": "15,9 млн",
+      "normalizedPrice": "86 885 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Д. Сабанче"
+    },
+    "coords": {
+      "lat": "54.92036057",
+      "lng": "52.0883255",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, Калейкинское сельское поселение, деревня Сабанче"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7496074582,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_258_m_na_uchastke_6_sot._7496074582?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 258 м² на участке 6 сот.",
+    "description": "Продам кирпичный дом с чистовой отделкой, все коммуникации центральные заведены в дом. Строился исключительно из качественных и дорогих материалов. Высота потолков 3,6 метров. Дизайн проект в подарок. Профессиональные отделочники готовы приступить к ремонту. Все вопросы по телефону. Продажа в связи переездом в другой город. Цена в 2 раза ниже себестоимости. Рассмотрю варианты обмена, на недвижимость Казань, Москва либо на коммерческую недвижимость в Альметьевске.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "29 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "29 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 29000000,
+      "wasLowered": false,
+      "exponent": "29 млн",
+      "normalizedPrice": "112 403 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н Дружба, ул. Галимжана Ибрагимова",
+      "addressLinks": {
+        "houseLink": {
+          "text": " ул. Галимжана Ибрагимова",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "мкр-н Дружба",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_galimzhana_ibragimova/913183-ASgBAgECAkSUA9AQ6MgTvrxvAUW6GB4idWxpdHNhX2dhbGltemhhbmFfaWJyYWdpbW92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.89745331",
+      "lng": "52.23503113",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, микрорайон Дружба, улица Галимжана Ибрагимова"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3925057611,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_2666_m_na_uchastke_12_sot._3925057611?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 266,6 м² на участке 12 сот.",
+    "description": "Полы залиты на обоих этажах.\nПродажа от собственника. Цена по кадастру. Дом из керамзитоблоков в черте города. Тихое и спокойное место. Лес в 2 минутах ходьбы. Своя скважина, 23 метра мощность водоносного горизонта. Хорошие тихие соседи. Чистый воздух.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "10 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "10 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 10500000,
+      "wasLowered": false,
+      "exponent": "10,5 млн",
+      "normalizedPrice": "39 385 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н Урсала"
+    },
+    "coords": {
+      "lat": "54.938798483092434",
+      "lng": "52.37087346776204",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, микрорайон Урсала"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3639418310,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_140_m_na_uchastke_15_sot._3639418310?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 140 м² на участке 1,5 сот.",
+    "description": "Земельный участок 16:45:010119:2682 -141.6 м.\n\nЗдание 16:45:010119:676-135.2 м.\n\nВ собственности без обременений.\n\nУлица Ризы Фахретдина, 34Б.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "8 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "8 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 8000000,
+      "wasLowered": false,
+      "exponent": "8 млн",
+      "normalizedPrice": "57 143 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Ризы Фахретдина, 34Б",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34Б",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Ризы Фахретдина",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_rizy_fahretdina/19406-ASgBAgECAkSUA9AQ6MgTnK8CAUW6GBgidWxpdHNhX3JpenlfZmFocmV0ZGluYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.902759320406076",
+      "lng": "52.31705150282589",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Ризы Фахретдина, 34Б"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 4553271073,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_415_m_na_uchastke_7_sot._4553271073?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 41,5 м² на участке 7 сот.",
+    "description": "Продается дом 41,5 м2. Участок 7 соток.\n\nДом пятистенник. Вода в доме, газ есть, электричество есть.\n\nПоменяли водяной и газовый счетчик в январе. В доме тепло. Жить можно, и есть место для постройки нового дома.\n\nКупили сами в 2024г старшему сыну, хотели строиться. Но он пожил и решил, что на земле в доме жить не будет и строиться не хочет.\n\nТеперь продаем. Живем в Урсале.\n\nЗвоните, подъеду покажу все.\n\nС продажей не торопимся. Обременений по дому нет.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "2 600 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "2 600 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 2600000,
+      "wasLowered": false,
+      "exponent": "2,6 млн",
+      "normalizedPrice": "62 651 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н Урсала, Советская ул., 108",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 108",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "мкр-н Урсала, Советская ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/sovetskaya_ulitsa/21254-ASgBAgECAkSUA9AQ6MgTjMwCAUW6GBMic292ZXRza2F5YV91bGl0c2Ei"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.93346024",
+      "lng": "52.36977005",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, микрорайон Урсала, Советская улица, 108"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8226534503,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_165_m_na_uchastke_135_sot._8226534503?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 165 м² на участке 13,5 сот.",
+    "description": "Продаётся хороший дом. Вся мебель остаётся. По всем вопросам отвечу по телефону. Собственник.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "17 300 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "17 300 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 17300000,
+      "wasLowered": false,
+      "exponent": "17,3 млн",
+      "normalizedPrice": "104 848 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Пос. железнодорожной станции Калейкино, ул. Победа, 73",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 73",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "пос. железнодорожной станции Калейкино, ул. Победа",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_pobeda/873242-ASgBAgECAkSUA9AQ6MgTtMxqAUW6GA8idWxpdHNhX3BvYmVkYSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.91869962872821",
+      "lng": "52.14724492397164",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Лесно-Калейкинское сельское поселение, посёлок железнодорожной станции Калейкино, улица Победа, 73"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3520537717,
+    "microCategoryId": 3811,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/kottedzh_2814_m_na_uchastke_10_sot._3520537717?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Коттедж 281,4 м² на участке 10 сот.",
+    "description": "Дом расположен в экологически чистом районе на участке прямоугольной формы 10 соток (1092м2).\n+ Благоустроенная территория с плодоносящими деревьями, газоном, дорожками выложенными тротуарной плиткой, освещение всей территории, разветвленная система полива.\n+ Парковочная зона для 2 автомобилей, гараж с автоматическими воротами, хозяйственный блок и баня (газифицированная с водонагревателем и комнатой отдыха).\n+ Территория ограждена по фасаду высоким забором из кирпича и автоматическими воротами. В шаговой доступности магазины, 2 детсада, школа, красивый хвойный лес.\n\nПланировка идеальна для комфортной жизни!\n+ На первом этаже: кухня-гостиная, спальня, отдельная гостиная, большой холл, санузел, ванная комната.\n+ На втором этаже: спальня, гостиная, кабинет и санузел.\n+ На цокольном этаже (отапливаемый): бойлерная, большая гардеробная, кухня кладовая, теплый гараж и спортзал.\n\nОтделочные работы выполнены высококачественными материалами. Классический интерьер в безупречном состоянии без следов эксплуатации, полностью обустроен бытовой техникой. Мебель выполнена из массива дуба.\n\nПодробнее:\n+ Общая площадь дома 281,4м2 (из них 98,5м2 отапливаемый подвал).\n+ Стены газобетон, облицованный красным кирпичом (толщина 54см), в доме очень тепло.\n+ Двухкамерный энергосберегающий стеклопакет.\n+ Высота потолков на 1ом этаже 3,1м, на 2ом 2,75м.\n+ Водоснабжение собственное без ограничений дебета (скважина 46м) + централизованный водопровод.\n+ Горячее водоснабжение циркуляционное с бойлером косвенного нагрева 200л, котел газовый Baxi + резервный электрический котел (профессиональность и качество исполнения котельной можно оценить на фото).\n+ Радиаторы немецкие Kermi. Теплый пол в зонах с плиточным напольным покрытием. В остальных зонах немецкий ламинат 33 класса.\n+ Электроснабжение 3 фазное с равномерным распределением нагрузки.\n\nСебестоимость дома кратно выше рыночной цены!\nОтвечу на все ваши вопросы с 09.00 до 21.00.\n*разумный торг.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "22 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "22 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 22500000,
+      "wasLowered": false,
+      "exponent": "22,5 млн",
+      "normalizedPrice": "79 957 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Мкр-н Урсала, ул. Рашида Саттарова, 22",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 22",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "мкр-н Урсала, ул. Рашида Саттарова",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_rashida_sattarova/768372-ASgBAgECAkSUA9AQ6MgT6OVdAUW6GBoidWxpdHNhX3Jhc2hpZGFfc2F0dGFyb3ZhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.92080977320721",
+      "lng": "52.37172653903949",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, микрорайон Урсала, улица Рашида Саттарова, 22"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8185971413,
+    "microCategoryId": 3808,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dacha_969_m_na_uchastke_15_sot._8185971413?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дача 96,9 м² на участке 15 сот.",
+    "description": "Продается участок с домом в одном из самых живописных и экологически чистых мест Альметьевского района — в дер. Сабанче. Деревня находится в 15-20 минутах езды от города. Проложена новая асфальтированная дорога.\nУчасток ровный, находится на естественной возвышенности. Выход в лес прямо с территории участка. Красивый вид с любой точки территории.\nНа участке плодоносящие культуры: яблони, вишни, смородина, крыжовник.\nДому требуется капитальный ремонт, либо под снос. Свет, газ проведены, вода из скважины.\nЕсть подвал.\nДом кирпичный, одна комната — сруб 6,5х6,5.\nНа территории участка есть дополнительные постройки: гараж, 2 подсобных помещения, баня, теплица.\nТорг уместен.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 800 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 800 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3800000,
+      "wasLowered": false,
+      "exponent": "3,8 млн",
+      "normalizedPrice": "39 216 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Д. Сабанче, ул. Султанова, 10",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 10",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "д. Сабанче, ул. Султанова",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_sultanova/652354-ASgBAgECAkSUA9AQ6MgThNFPAUW6GBIidWxpdHNhX3N1bHRhbm92YSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.92225908789905",
+      "lng": "52.0868733283921",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Калейкинское сельское поселение, деревня Сабанче, улица Султанова, 10"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7307985445,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_397_m_na_uchastke_13_sot._7307985445?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 39,7 м² на участке 13 сот.",
+    "description": "Продам дом в с. Новое Надырово Альметьевского района.\nВ селе действуют средняя школа, детский сад, дом культуры, библиотека, фельдшерско-акушерский пункт.\nЕсть действующий магазин.\nДом деревянный, общитый.\nВ доме сан. Узел, болер.\nНа участке расположены действующая баня, хозяйственный блок и беседка.\nПродажа в связи с переездом.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1900000,
+      "wasLowered": false,
+      "exponent": "1,9 млн",
+      "normalizedPrice": "47 859 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Надырово"
+    },
+    "coords": {
+      "lat": "54.89391708",
+      "lng": "52.47145844",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, село Новое Надырово"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8081117742,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_1981_m_na_uchastke_68_sot._8081117742?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 198,1 м² на участке 6,8 сот.",
+    "description": "Продается дом с предчистовой отделкой. Район спокойный, в центре города. Полное описание при личном осмотре.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "18 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "18 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 18000000,
+      "wasLowered": false,
+      "exponent": "18 млн",
+      "normalizedPrice": "90 863 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Бари Юсупова, 10",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 10",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Бари Юсупова",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_bari_yusupova/951713-ASgBAgECAkSUA9AQ6MgTwpZ0AUW6GBYidWxpdHNhX2JhcmlfeXVzdXBvdmEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.91197968",
+      "lng": "52.29239655",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Бари Юсупова, 10"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7450347717,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_203_m_na_uchastke_8_sot._7450347717?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 203 м² на участке 8 сот.",
+    "description": "Дом Проходит по Сельской Ипотеке.\nЧистая продажа, детского вопроса нет.\nПанорамные окна второй этаж мансарда.\nГаз свет вода проведены до участка.\nПлощадь дома 203 квадратов.\nТак же возможен обмен на квартиру.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "7 400 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "7 400 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 7400000,
+      "wasLowered": false,
+      "exponent": "7,4 млн",
+      "normalizedPrice": "36 453 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Тихоновка, ул. Маяковского, 14А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 14А",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Тихоновка, ул. Маяковского",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_mayakovskogo/75491-ASgBAgECAkSUA9AQ6MgTxpsJAUW6GBUidWxpdHNhX21heWFrb3Zza29nbyI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.88449478",
+      "lng": "52.4064827",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, муниципальное образование Нижняя Мактама, село Тихоновка, улица Маяковского, 14А"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 3657804011,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_50_m_na_uchastke_8_sot._3657804011?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 50 м² на участке 8 сот.",
+    "description": "Продам участок с новым домом и забором по всему периметру. Много плодовых деревьев и кустарников годных. Всё остальные при осмотре. Торг. Обмен на авто.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "1 100 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "1 100 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 1100000,
+      "wasLowered": false,
+      "exponent": "1,1 млн",
+      "normalizedPrice": "22 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Садоводческое некоммерческое объединение граждан Озёрный"
+    },
+    "coords": {
+      "lat": "54.86929125477719",
+      "lng": "52.267542684560574",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевск, садоводческое некоммерческое объединение граждан Озёрный"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8118462248,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_100_m_na_uchastke_10_sot._8118462248?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 100 м² на участке 10 сот.",
+    "description": "Продам новый дом 2024 года (100 м²) на участке 10.5 соток. Полный комфорт и современные технологии!\n\nПо семейной ипотеке не проходит.\n\nИщете дом для постоянного проживания, где всё уже сделано за вас?\n\nВаш поиск завершен!\n\nПредлагается к продаже новый дом, построенный в 2024 году по монолитной технологии с качественными материалами и полным набором коммуникаций. Участок 10.5 соток в тихом, уютном месте.\n\nКлючевые преимущества:\n\n· Прочный фундамент: 28 буроналивных свай — гарантия надежности.\n\n· Теплые стены: Керамзитоблок 30 см + утеплитель 5 см + облицовочный кирпич «Баварская кладка». Дом готов к зимам!\n\n· Современная кровля: Металлочерепица «Каскад» с ветрозащитой (Изоспан).\n\n· Все центральные коммуникации подведены и функционируют!\n\nПланировка и площадь:\n\n· Общая площадь дома: 100 м² (по внешним стенам).\n\n· Жилая площадь: 77.7 м² (по внутренним стенам).\n\n· Просторная гостиная, объединенная с залом.\n\n· 2 изолированные спальни.\n\n· Выход на террасу из кухни-гостиной.\n\n· Котельная.\n\n· Санузел.\n\n· Подвал — нет.\n\n· Утепленный чердак (вход с крыльца). Потолок утеплен минеральной ватой 15 см.\n\nИнфраструктура и коммуникации:\n\n· Электричество: 380 В (полноценное подключение для любого оборудования).\n\n· Водоснабжение: Собственная скважина 32 метра (чистая вода круглый год).\n\n· Канализация: Переливной септик 6 м³ + 3 м³ (эффективная и экологичная очистка).\n\n· Отопление: Система установлена и готова к работе!\n\n· Территория: Участок 10.5 соток огорожен забором. Улица тупиковая, с щебеночным покрытием и уличным освещением — тихо и безопасно.\n\nДополнительные возможности:\n\n· Отделочные материалы для внутреннего ремонта уже закуплены и передаются покупателю Бесплатно.\n\nЭтот дом не требует вложений в конструктив и основные системы — только финишная отделка вашим вкусом. Идеальный вариант для тех, кто ценит надежность, качество и спокойную жизнь за городом.\n\nЗвоните, чтобы задать вопросы и договориться о просмотре!\n\nПомощь в одобрении ипотеки.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "5 200 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "5 200 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 5200000,
+      "wasLowered": false,
+      "exponent": "5,2 млн",
+      "normalizedPrice": "52 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Новое Надырово, Озёрная ул.",
+      "addressLinks": {
+        "houseLink": {
+          "text": " Озёрная ул.",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Новое Надырово",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ozernaya_ulitsa/862932-ASgBAgECAkSUA9AQ6MgTqKtpAUW6GBEib3plcm5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.899820346542796",
+      "lng": "52.47016056393781",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, село Новое Надырово, Озёрная улица"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 1997545004,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_80_m_na_uchastke_20_sot._1997545004?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 80 м² на участке 20 сот.",
+    "description": "Дом.\nГараж 6х6 (толстостенная).\nПомещение 6х4 (для продуктов).\nБаня 6х3,5.\nУличных два погреба.\nВ доме три подпола для солений.\nТри бревенчатых сарая.\nВ огороде 3 яблони, 1 груша, смородина, крыжовник, вишня, малина, слива, черемуха, рябина (красная, черная).\nСразу же за огородом речка.\nЗа воротами колонка.\nЧерез 20 метров родник.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "4 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "4 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 4000000,
+      "wasLowered": false,
+      "exponent": "4 млн",
+      "normalizedPrice": "50 000 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Кама-Исмагилово"
+    },
+    "coords": {
+      "lat": "54.902009",
+      "lng": "52.553807",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан, Альметьевский район, село Кама-Исмагилово"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8236689948,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_80_m_na_uchastke_8_sot._8236689948?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 80 м² на участке 8 сот.",
+    "description": "Продается кирпичный дом площадью 80 кв. М с косметическим ремонтом. Дом одноэтажный, состоит из трех комнат. На участке 8 соток расположены дополнительные постройки. В доме имеется газовое отопление, водоснабжение от скважины и септик. Санузел расположен внутри дома. На территории также находится баня, что добавляет комфорта и уюта. До ближайшей остановки общественного транспорта можно добраться пешком. В шаговой доступности школа, что удобно для семей с детьми. Земли категории Ижс.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "3 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "3 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 3500000,
+      "wasLowered": false,
+      "exponent": "3,5 млн",
+      "normalizedPrice": "43 750 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Миннибаево, ул. Ф. Карими, 50А",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 50А",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Миннибаево, ул. Ф. Карими",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_f._karimi/339550-ASgBAgECAkSUA9AQ6MgTvLkpAUW6GBIidWxpdHNhX2YuX2thcmltaSI"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.813706661726854",
+      "lng": "52.23428559567522",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, Миннибаевское сельское поселение, село Миннибаево, улица Ф. Карими, 50А"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7917844625,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_146_m_na_uchastke_6_sot._7917844625?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 146 м² на участке 6 сот.",
+    "description": "Продам дом, два этажа. Построен полностью из красного кирпича, облицовка дома из кирпича, участок ровный, на участке посажены малина, клубника. Имеется большой гараж с автоматическими воротами, вход в гараж из дома, тёплый тамбур 10 м2, в котором поместится шкаф для верхней одежды и обуви.\nНа первом этаже просторная гостиная с кухней 30м2, санузел с душевой, так же в санузле есть выход подвал.\n10 м2, гардеробная 16 м2, в которой предусмотрена установка стиральной и сушильной машины. На втором этаже 3 комнаты и санузел(без ремонта), дом строили для себя, использованы качественные материалы. Дом тёплый.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "13 900 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "13 900 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 13900000,
+      "wasLowered": false,
+      "exponent": "13,9 млн",
+      "normalizedPrice": "95 205 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Ул. Возрождения, 34",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 34",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "ул. Возрождения",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/ulitsa_vozrozhdeniya/249373-ASgBAgECAkSUA9AQ6MgTurgeAUW6GBYidWxpdHNhX3ZvenJvemhkZW5peWEi"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.93254471",
+      "lng": "52.38503265",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, улица Возрождения, 34"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 7744466983,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_80_m_na_uchastke_13_sot._7744466983?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 80 м² на участке 13 сот.",
+    "description": "Продаю кирпичный дом со всеми удобствами, участок 13 соток или меняю на дом в Казани. Подъезд к участку с двух сторон. Один гараж на две машины+смотровая яма, второй гараж с другой стороны участка.\nПродаю без риелторов. Собственник.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "9 500 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "9 500 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 9500000,
+      "wasLowered": false,
+      "exponent": "9,5 млн",
+      "normalizedPrice": "118 750 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "Нагорный пер., 14Б",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 14Б",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "Нагорный пер.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/nagornyy_pereulok/829439-ASgBAgECAkSUA9AQ6MgT_p9lAUW6GBMibmFnb3JueXlfcGVyZXVsb2si"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.88153614409561",
+      "lng": "52.27303965835492",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевск, Нагорный переулок, 14Б"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  },
+  {
+    "id": 8285112942,
+    "microCategoryId": 3809,
+    "isVerifiedItem": false,
+    "urlPath": "/almetevsk/doma_dachi_kottedzhi/dom_141_m_na_uchastke_10_sot._8285112942?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJVRndUU2R4WUVLY01SOVhrIjt90kBo9z8AAAA",
+    "title": "Дом 141 м² на участке 10 сот.",
+    "description": "Продается двухэтажный дом из газоблоков площадью 141 м². Построен в 2015 году. На участке 10 соток расположены баня и ухоженный сад. Дом оснащен центральным водоснабжением и газовым отоплением. Есть кабельное/цифровое ТВ. В доме пять комнат с евро ремонтом, что создает уютную атмосферу. Парковка предусмотрена на территории. Участок относится к категории Ижс, что позволяет использовать его под индивидуальное жилищное строительство. До ближайшей остановки общественного транспорта легко добраться. Спутниковое ТВ, видео наблюдения территории, автоматические ворота 2 шт, автоматические ворота гараж, в гараже хоз. Блок и погреб, а так же над гаражем есть чердак для сезонных вещей. Туалет на втором этаже на первом туалет (стиральная машина) и ванна раздельные. Кухня отдельная гарнитур, холодильник, посудомойка и т. Д. Территория в асфальте прилегающая перед домом тоже. Река Зай рядом 400м, тихая тупиковая улица. Фасад дома эксклюзивный натуральная плитка жара стойкая и морозостойкая (не композит, имитация и такое прочее).\nВ данный момент можно заехать и жить без доп мебели и техники. Один взрослый собственник ни кто не был прописан! Чистая продажа! Доп. Номер.",
+    "category": {
+      "id": 25,
+      "name": "Дома, дачи, коттеджи",
+      "slug": "doma_dachi_kottedzhi",
+      "rootId": 4,
+      "compare": true,
+      "pageRootId": 4
+    },
+    "location": {
+      "id": 650210,
+      "name": "Альметьевск",
+      "namePrepositional": "Альметьевске",
+      "isCurrent": true,
+      "isRegion": false
+    },
+    "priceDetailed": {
+      "enabled": true,
+      "fullString": "15 000 000 ₽",
+      "hasValue": true,
+      "postfix": "",
+      "string": "15 000 000",
+      "stringWithoutDiscount": null,
+      "title": {
+        "full": "Цена",
+        "short": "Цена"
+      },
+      "titleDative": "цене",
+      "value": 15000000,
+      "wasLowered": false,
+      "exponent": "15 млн",
+      "normalizedPrice": "106 383 ₽ за м²"
+    },
+    "geo": {
+      "geoReferences": [],
+      "formattedAddress": "С. Тихоновка, Южная ул., 47",
+      "addressLinks": {
+        "houseLink": {
+          "text": " 47",
+          "link": "https://m.avito.ru"
+        },
+        "streetLink": {
+          "text": "с. Тихоновка, Южная ул.",
+          "link": "https://m.avito.ru/almetevsk/doma_dachi_kottedzhi/prodam/street/yuzhnaya_ulitsa/697546-ASgBAgECAkSUA9AQ6MgTlJNVAUW6GBEieXV6aG5heWFfdWxpdHNhIg"
+        }
+      }
+    },
+    "coords": {
+      "lat": "54.881930589570544",
+      "lng": "52.41346029784911",
+      "zoom": 16,
+      "precision": 0,
+      "address_user": "Республика Татарстан (Татарстан), Альметьевский район, муниципальное образование Нижняя Мактама, село Тихоновка, Южная улица, 47"
+    },
+    "parsed_at": "2026-09-08T10:39:05.018887"
+  }
+]
