@@ -1,68 +1,49 @@
+-- CITIES
+
 CREATE TABLE IF NOT EXISTS cities (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY NOT NULL,
 
     name TEXT NOT NULL,
 
-    lat REAL,
-    lon REAL,
+    lat REAL NOT NULL,
+    lon REAL NOT NULL,
 
-    UNIQUE (name)
+    CHECK (lat BETWEEN -90 AND 90),
+
+    CHECK (lon BETWEEN -180 AND 180)
 );
 
 
--- ============================================================
--- Property categories
--- ============================================================
+-- CATEGORIES
 
 CREATE TABLE IF NOT EXISTS categories (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY NOT NULL,
 
-    -- Стабильный код для Python/ML
-    -- apartment, house, land, commercial
-    code TEXT NOT NULL UNIQUE,
-
-    -- Человекочитаемое название
     name TEXT NOT NULL
 );
 
 
--- ============================================================
--- Real estate listings
--- ============================================================
+-- LISTINGS
 
 CREATE TABLE IF NOT EXISTS listings (
-    id INTEGER PRIMARY KEY,
+    id INTEGER PRIMARY KEY NOT NULL,
 
     city_id INTEGER NOT NULL,
     category_id INTEGER NOT NULL,
 
-    -- Основной target
     price INTEGER NOT NULL,
 
-    -- Общая площадь
-    area_m2 REAL,
-
-    -- Квартиры / дома
-    rooms INTEGER,
-    floor INTEGER,
-    floors_total INTEGER,
-
-    -- Характеристики здания
-    building_year INTEGER,
-    wall_material TEXT,
-
-    -- Тип внутри категории
-    -- Например: secondary, new_building, individual_housing
-    property_type TEXT,
-
-    -- География
+    formatted_address TEXT NOT NULL,
     district TEXT,
-    lat REAL,
-    lon REAL,
-    distance_to_center_km REAL,
 
-    -- Служебные данные
-    url TEXT,
+    lat REAL NOT NULL,
+    lon REAL NOT NULL,
+
+    distance_to_center_km REAL NOT NULL,
+
+    description TEXT NOT NULL,
+
+    url TEXT NOT NULL,
     parsed_at TEXT NOT NULL,
 
     FOREIGN KEY (city_id)
@@ -71,80 +52,98 @@ CREATE TABLE IF NOT EXISTS listings (
     FOREIGN KEY (category_id)
         REFERENCES categories(id),
 
+
+    -- INSPECTIONS
+
     CHECK (price > 0),
 
-    CHECK (
-        area_m2 IS NULL
-        OR area_m2 > 0
-    ),
+    CHECK (lat BETWEEN -90 AND 90),
+
+    CHECK (lon BETWEEN -180 AND 180),
+
+    CHECK (distance_to_center_km >= 0)
+);
+
+
+-- APARTMENTS
+
+CREATE TABLE IF NOT EXISTS apartments (
+    listing_id INTEGER PRIMARY KEY NOT NULL,
+
+    area_m2 REAL NOT NULL,
+    rooms INTEGER,
+    is_studio BOOLEAN NOT NULL,
+    floor INTEGER NOT NULL,
+    floors_total INTEGER NOT NULL,
+
+    FOREIGN KEY (listing_id)
+        REFERENCES listings(id)
+        ON DELETE CASCADE,
+
+
+    -- INSPECTIONS
+
+    CHECK (area_m2 > 0),
 
     CHECK (
         rooms IS NULL
         OR rooms > 0
     ),
 
-    CHECK (
-        floor IS NULL
-        OR floor > 0
-    ),
+    CHECK (floor > 0),
 
-    CHECK (
-        floors_total IS NULL
-        OR floors_total > 0
-    ),
+    CHECK (floors_total > 0),
 
-    CHECK (
-        floor IS NULL
-        OR floors_total IS NULL
-        OR floor <= floors_total
-    ),
+    CHECK (floor <= floors_total)
+);
 
-    CHECK (
-        building_year IS NULL
-        OR building_year BETWEEN 1800 AND 2100
-    ),
 
-    CHECK (
-        lat IS NULL
-        OR lat BETWEEN -90 AND 90
-    ),
+-- HOUSES
 
-    CHECK (
-        lon IS NULL
-        OR lon BETWEEN -180 AND 180
-    ),
+CREATE TABLE IF NOT EXISTS houses (
+    listing_id INTEGER PRIMARY KEY NOT NULL,
 
-    CHECK (
-        distance_to_center_km IS NULL
-        OR distance_to_center_km >= 0
-    )
+    house_area_m2 REAL NOT NULL,
+    land_area_m2 REAL NOT NULL,
+
+    FOREIGN KEY (listing_id)
+        REFERENCES listings(id)
+        ON DELETE CASCADE,
+
+
+    -- INSPECTIONS
+
+    CHECK (house_area_m2 > 0),
+
+    CHECK (land_area_m2 > 0)
+);
+
+
+-- LANDS
+
+CREATE TABLE IF NOT EXISTS lands (
+    listing_id INTEGER PRIMARY KEY NOT NULL,
+
+    land_area_m2 REAL NOT NULL,
+    land_type TEXT NOT NULL,
+
+    FOREIGN KEY (listing_id)
+        REFERENCES listings(id)
+        ON DELETE CASCADE,
+
+
+    -- INSPECTIONS
+
+    CHECK (land_area_m2 > 0)
 );
 
 
 -- ============================================================
--- Indexes
--- ============================================================
+
+-- INDEXES
 
 CREATE INDEX IF NOT EXISTS idx_listings_city_id
     ON listings(city_id);
 
 CREATE INDEX IF NOT EXISTS idx_listings_category_id
     ON listings(category_id);
-
-CREATE INDEX IF NOT EXISTS idx_listings_city_category
-    ON listings(city_id, category_id);
-
-CREATE INDEX IF NOT EXISTS idx_listings_parsed_at
-    ON listings(parsed_at);
-
-
--- ============================================================
--- Initial categories
--- ============================================================
-
-INSERT OR IGNORE INTO categories (code, name)
-VALUES
-    ('apartment', 'Квартиры'),
-    ('house', 'Дома'),
-    ('land', 'Земельные участки'),
-    ('commercial', 'Коммерческая недвижимость');

@@ -1,17 +1,34 @@
+import sqlite3
 from pathlib import Path
 
-from real_estate_price_predictor.database.connection import get_connection
-
-
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+DB_PATH = PROJECT_ROOT / "data" / "real_estate.db"
 SCHEMA_PATH = PROJECT_ROOT / "sql" / "schema.sql"
 
 
 def init_database() -> None:
-    schema = SCHEMA_PATH.read_text(encoding="utf-8")
+    print(f"Database: {DB_PATH}")
+    print(f"Schema:   {SCHEMA_PATH}")
 
-    with get_connection() as connection:
-        connection.executescript(schema)
+    if not SCHEMA_PATH.exists():
+        raise FileNotFoundError(
+            f"Schema not found: {SCHEMA_PATH}"
+        )
+
+    DB_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    schema = SCHEMA_PATH.read_text(
+        encoding="utf-8"
+    )
+
+    with sqlite3.connect(DB_PATH) as conn:
+        conn.execute("PRAGMA foreign_keys = ON")
+
+        conn.executescript(schema)
 
     print("Database initialized successfully.")
 
