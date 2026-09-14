@@ -1,4 +1,13 @@
+from pathlib import Path
+
 from dataclasses import dataclass
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+
+DB_PATH = ROOT_DIR / "data" / "real_estate.db"
+SCHEMA_PATH = ROOT_DIR / "sql" / "schema.sql"
+MODELS_DIR = ROOT_DIR / "models"
+ANALYSIS_DIR = ROOT_DIR / "analysis"
 
 
 @dataclass(frozen=True)
