@@ -1,13 +1,23 @@
+from dataclasses import dataclass
 from pathlib import Path
 
-from dataclasses import dataclass
+from dotenv import load_dotenv
+import os
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parents[2]
 
 DB_PATH = ROOT_DIR / "data" / "real_estate.db"
 SCHEMA_PATH = ROOT_DIR / "sql" / "schema.sql"
 MODELS_DIR = ROOT_DIR / "models"
 ANALYSIS_DIR = ROOT_DIR / "analysis"
+
+BASE_URL = "https://www.avito.ru"
+
+load_dotenv(ROOT_DIR / ".env")
+
+YANDEX_API_KEY = os.getenv(
+    "YANDEX_API_KEY"
+)
 
 
 @dataclass(frozen=True)
@@ -32,5 +42,3 @@ CATEGORY_TYPES: dict[int, str] = {
     25: "house",
     26: "land",
 }
-
-BASE_URL = "https://www.avito.ru"

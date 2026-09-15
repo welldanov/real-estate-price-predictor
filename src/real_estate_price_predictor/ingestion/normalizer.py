@@ -2,6 +2,8 @@ import re
 import math
 
 from ..config import CityConfig, CITIES, CATEGORY_TYPES, BASE_URL
+from ..utils.geo import calculate_distance_km
+
 from ..ingestion.models import (
     ApartmentData,
     CityData,
@@ -49,35 +51,6 @@ def build_url(url_path: str) -> str:
         return url_path
 
     return f"{BASE_URL}{url_path}"
-
-
-def calculate_distance_km(
-        lat1: float,
-        lon1: float,
-        lat2: float,
-        lon2: float,
-) -> float:
-    earth_radius_km = 6371.0
-
-    lat1_rad = math.radians(lat1)
-    lat2_rad = math.radians(lat2)
-
-    delta_lat = math.radians(lat2 - lat1)
-    delta_lon = math.radians(lon2 - lon1)
-
-    a = (
-            math.sin(delta_lat / 2) ** 2
-            + math.cos(lat1_rad)
-            * math.cos(lat2_rad)
-            * math.sin(delta_lon / 2) ** 2
-    )
-
-    c = 2 * math.atan2(
-        math.sqrt(a),
-        math.sqrt(1 - a),
-    )
-
-    return earth_radius_km * c
 
 
 def parse_apartment_title(
@@ -263,7 +236,7 @@ def normalize(item: AvitoListingSchema) -> NormalizedListing:
     city_config = get_city_config(item.location.id)
     lat, lon = parse_coordinates(item)
     formatted_address = parse_formatted_address(item)
-    distance_to_center_km = calculate_distance_km(city_config.lat, city_config.lon, lat, lon)
+    distance_to_center_km = calculate_distance_km(lat1=city_config.lat, lon1=city_config.lon, lat2=lat, lon2=lon)
 
     if not math.isfinite(distance_to_center_km):
         raise ValueError("Calculated distance is not finite")
